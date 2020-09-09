@@ -39,7 +39,7 @@
             <div class="container-fluid footer-content">
                 <div class="pull-right">
                     <div class="text-right"><a href="https://github.com/zyzsdy/aqua-button" target="_blank">原项目</a></div>
-                    <div class="text-right">本项目<a href="https://github.com/xuziang111/mahiru-button-src" target="_blank">{{$t("info.toGithub")}}</a></div>
+                    <div class="text-right">本项目<a href="https://github.com/xuziang111/miki-button-src" target="_blank">{{$t("info.toGithub")}}</a></div>
                     <div class="text-right">{{$t("info.notOfficial")}}</div>
                 </div>
                 <div>{{$t("info.audioStaff")}}</div>

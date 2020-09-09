@@ -75,6 +75,20 @@
                     "description": {
                         "zh-CN": "mua"
                     }
+                },
+                {
+                    "name": "呜",
+                    "path": "呜.mp3",
+                    "description": {
+                        "zh-CN": "呜"
+                    }
+                },
+                {
+                    "name": "笑",
+                    "path": "笑.mp3",
+                    "description": {
+                        "zh-CN": "笑"
+                    }
                 }
 
             ]
@@ -245,6 +259,27 @@
                     "description": {
                         "zh-CN": "滚滚滚滚滚"
                     }
+                },
+                {
+                    "name": "我道歉了你们还想怎么样",
+                    "path": "我道歉了你们还想怎么样.mp3",
+                    "description": {
+                        "zh-CN": "我道歉了你们还想怎么样"
+                    }
+                },
+                {
+                    "name": "你好衰阿",
+                    "path": "你好衰阿.mp3",
+                    "description": {
+                        "zh-CN": "你好衰阿"
+                    }
+                },
+                {
+                    "name": "你们怎么这么懂",
+                    "path": "你们怎么这么懂.mp3",
+                    "description": {
+                        "zh-CN": "你们怎么这么懂"
+                    }
                 }
             ]
         },
@@ -266,6 +301,13 @@
                     "path": "新疆男友 大家晚上好 弥希miki的男朋友是我.wav",
                     "description": {
                         "zh-CN": "新疆男友 大家晚上好 弥希miki的男朋友是我"
+                    }
+                },
+                {
+                    "name": "里昂 里昂",
+                    "path": "里昂 里昂.mp3",
+                    "description": {
+                        "zh-CN": "里昂 里昂"
                     }
                 }    
             ]
@@ -316,6 +358,20 @@
                     "path": "擦盘子.mp3",
                     "description": {
                         "zh-CN": "擦盘子"
+                    }
+                },
+                {
+                    "name": "擦盘子2",
+                    "path": "擦盘子2.mp3",
+                    "description": {
+                        "zh-CN": "擦盘子2"
+                    }
+                },
+                {
+                    "name": "擦盘子3",
+                    "path": "擦盘子3.mp3",
+                    "description": {
+                        "zh-CN": "擦盘子3"
                     }
                 },
                 {
@@ -485,6 +541,62 @@
                     "path": "miki有事.wav",
                     "description": {
                         "zh-CN": "miki有事"
+                    }
+                },
+                {
+                    "name": "对不起",
+                    "path": "对不起.mp3",
+                    "description": {
+                        "zh-CN": "对不起"
+                    }
+                },
+                {
+                    "name": "弥希miki很便宜的",
+                    "path": "弥希miki很便宜的.mp3",
+                    "description": {
+                        "zh-CN": "弥希miki很便宜的"
+                    }
+                },
+                {
+                    "name": "水友们，这合理吗",
+                    "path": "水友们，这合理吗.mp3",
+                    "description": {
+                        "zh-CN": "水友们，这合理吗"
+                    }
+                },
+                {
+                    "name": "天道酬勤",
+                    "path": "天道酬勤.mp3",
+                    "description": {
+                        "zh-CN": "天道酬勤"
+                    }
+                },
+                {
+                    "name": "必可活用于下次",
+                    "path": "必可活用于下次.mp3",
+                    "description": {
+                        "zh-CN": "必可活用于下次"
+                    }
+                },
+                {
+                    "name": "rua",
+                    "path": "rua.mp3",
+                    "description": {
+                        "zh-CN": "rua"
+                    }
+                },
+                {
+                    "name": "女鬼",
+                    "path": "女鬼.mp3",
+                    "description": {
+                        "zh-CN": "女鬼"
+                    }
+                },
+                {
+                    "name": "啊",
+                    "path": "啊.mp3",
+                    "description": {
+                        "zh-CN": "啊"
                     }
                 }
                 
