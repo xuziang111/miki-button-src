@@ -1,4 +1,4 @@
-# Mhr button
+# Miki button
 
 ## Contributing
 

@@ -15,7 +15,7 @@
                 
                 <div class="collapse navbar-collapse" id="bs-navbar-collapse">
                     <ul class="nav navbar-nav">
-                        <li><a href="https://space.bilibili.com/477306079/" target="_blank"><img src="resources/bilibili.svg" height="18"/></a></li>
+                        <li><a href="https://space.bilibili.com/477317922/" target="_blank"><img src="resources/bilibili.svg" height="18"/></a></li>
                         <!-- <li><a href="https://twitter.com/minatoaqua" target="_blank"><img src="resources/Twitter_Social_Icon_Circle_Color.png" height="18"/></a></li> -->
                     </ul>
                     <!-- <ul class="nav navbar-nav navbar-right">

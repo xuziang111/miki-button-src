@@ -598,9 +598,38 @@
                     "description": {
                         "zh-CN": "啊"
                     }
+                },
+                {
+                    "name": "mahiru真的是天使",
+                    "path": "mahiru真的是天使.mp3",
+                    "description": {
+                        "zh-CN": "mahiru真的是天使"
+                    }
+                },
+                {
+                    "name": "呜呜呜",
+                    "path": "呜呜呜.mp3",
+                    "description": {
+                        "zh-CN": "呜呜呜"
+                    }
                 }
                 
 
+            ]
+        },
+        {
+            "categoryName": "mimimi",
+            "categoryDescription": {
+                "zh-CN": "弥弥弥弥弥弥弥弥弥弥弥弥弥"
+            },
+            "voiceList": [
+                {
+                    "name": "弥弥弥弥弥弥弥弥弥弥弥弥弥",
+                    "path": "弥弥弥弥弥弥弥弥弥弥弥弥弥.mp3",
+                    "description": {
+                        "zh-CN": "弥弥弥弥弥弥弥弥弥弥弥弥弥"
+                    }
+                }    
             ]
         }
     ]
