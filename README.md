@@ -36,7 +36,6 @@ To deploy a local development environment, first install the latest version of N
 
 Program: MIT
 
-本项目由VirtuaReal创建运营.
 
 ## Special Thanks
 
