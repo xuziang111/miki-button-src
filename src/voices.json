@@ -1,0 +1,495 @@
+{
+    "voices": [
+        {
+            "categoryName": "voice",
+            "categoryDescription": {
+                "zh-CN": "嘎吱语音"
+            },
+            "voiceList": [
+                {
+                    "name": "mahiru主人",
+                    "path": "mahiru主人.mp3",
+                    "description": {
+                        "zh-CN": "mahiru主人"
+                    }
+                },
+                {
+                    "name": "咽口水",
+                    "path": "咽口水.wav",
+                    "description": {
+                        "zh-CN": "咽口水"
+                    }
+                },
+                {
+                    "name": "弥宝吐舌",
+                    "path": "弥宝吐舌.wav",
+                    "description": {
+                        "zh-CN": "弥宝吐舌"
+                    }
+                },
+                {
+                    "name": "弥宝苦笑",
+                    "path": "弥宝苦笑.wav",
+                    "description": {
+                        "zh-CN": "弥宝苦笑"
+                    }
+                },
+                {
+                    "name": "弥宝飞扑",
+                    "path": "弥宝飞扑.wav",
+                    "description": {
+                        "zh-CN": "弥宝飞扑"
+                    }
+                },
+                {
+                    "name": "宝 你好聪明 妈妈好欣慰",
+                    "path": "宝 你好聪明 妈妈好欣慰.wav",
+                    "description": {
+                        "zh-CN": "宝 你好聪明 妈妈好欣慰"
+                    }
+                },
+                {
+                    "name": "啊哈_",
+                    "path": "啊哈_.wav",
+                    "description": {
+                        "zh-CN": "啊哈_"
+                    }
+                },
+                {
+                    "name": "啊~",
+                    "path": "啊~.wav",
+                    "description": {
+                        "zh-CN": "啊~"
+                    }
+                },
+                {
+                    "name": "啊哈哈哈哈哈哈",
+                    "path": "啊哈哈哈哈哈哈.wav",
+                    "description": {
+                        "zh-CN": "啊哈哈哈哈哈哈"
+                    }
+                },
+                {
+                    "name": "mua",
+                    "path": "mua.wav",
+                    "description": {
+                        "zh-CN": "mua"
+                    }
+                }
+
+            ]
+        },
+        {
+            "categoryName": "actmoe",
+            "categoryDescription": {
+                "zh-CN": "对线语音"
+            },
+            "voiceList": [
+                {
+                    "name": "嗯？你说啥",
+                    "path": "嗯？你说啥.wav",
+                    "description": {
+                        "zh-CN": "嗯？你说啥"
+                    }
+                },
+                {
+                    "name": "甜甜甜你妈",
+                    "path": "甜甜甜你妈.wav",
+                    "description": {
+                        "zh-CN": "甜甜甜你妈"
+                    }
+                },
+                {
+                    "name": "滚吧 莫挨老子",
+                    "path": "滚吧 莫挨老子.wav",
+                    "description": {
+                        "zh-CN": "滚吧 莫挨老子"
+                    }
+                },
+                {
+                    "name": "miki怒了miki录了录了",
+                    "path": "miki怒了miki录了录了.wav",
+                    "description": {
+                        "zh-CN": "miki怒了miki录了录了"
+                    }
+                },
+                {
+                    "name": "miki是真的没有脑袋不正常这样的问题",
+                    "path": "miki是真的没有脑袋不正常这样的问题.wav",
+                    "description": {
+                        "zh-CN": "miki是真的没有脑袋不正常这样的问题"
+                    }
+                },
+                {
+                    "name": "miki什么时候怕过你后辈了",
+                    "path": "miki什么时候怕过你后辈了.wav",
+                    "description": {
+                        "zh-CN": "miki什么时候怕过你后辈了"
+                    }
+                },
+                {
+                    "name": "你也太二次元了吧",
+                    "path": "你也太二次元了吧.wav",
+                    "description": {
+                        "zh-CN": "你也太二次元了吧"
+                    }
+                },
+                {
+                    "name": "那你性癖很怪哦",
+                    "path": "那你性癖很怪哦.wav",
+                    "description": {
+                        "zh-CN": "那你性癖很怪哦"
+                    }
+                },
+                {
+                    "name": "略傻逼略",
+                    "path": "略傻逼略.wav",
+                    "description": {
+                        "zh-CN": "略傻逼略"
+                    }
+                },
+                {
+                    "name": "vtuber舔狗快点笑他",
+                    "path": "vtuber舔狗快点笑他.wav",
+                    "description": {
+                        "zh-CN": "vtuber舔狗快点笑他"
+                    }
+                },
+                {
+                    "name": "按照脸来说我还是非常可爱的",
+                    "path": "按照脸来说我还是非常可爱的.wav",
+                    "description": {
+                        "zh-CN": "按照脸来说我还是非常可爱的"
+                    }
+                },
+                {
+                    "name": "草",
+                    "path": "草.wav",
+                    "description": {
+                        "zh-CN": "草"
+                    }
+                },
+                {
+                    "name": "大家脑子是真的有问题吧天那",
+                    "path": "大家脑子是真的有问题吧天那.wav",
+                    "description": {
+                        "zh-CN": "大家脑子是真的有问题吧天那"
+                    }
+                },
+                {
+                    "name": "对不起对不起对不起",
+                    "path": "对不起对不起对不起.wav",
+                    "description": {
+                        "zh-CN": "对不起对不起对不起"
+                    }
+                },
+                {
+                    "name": "反对青鸟的都拖出去杀了",
+                    "path": "反对青鸟的都拖出去杀了.wav",
+                    "description": {
+                        "zh-CN": "反对青鸟的都拖出去杀了"
+                    }
+                },
+                {
+                    "name": "副会长的嘴从来没有动过怎么开飘啊",
+                    "path": "副会长的嘴从来没有动过怎么开飘啊.wav",
+                    "description": {
+                        "zh-CN": "副会长的嘴从来没有动过怎么开飘啊"
+                    }
+                },
+                {
+                    "name": "按照脸来说我还是非常可爱的",
+                    "path": "按照脸来说我还是非常可爱的.wav",
+                    "description": {
+                        "zh-CN": "按照脸来说我还是非常可爱的"
+                    }
+                },
+                {
+                    "name": "先提高你的裤腰带吧",
+                    "path": "先提高你的裤腰带吧.wav",
+                    "description": {
+                        "zh-CN": "先提高你的裤腰带吧"
+                    }
+                },
+                {
+                    "name": "哭了吗好哭的好赏好活",
+                    "path": "哭了吗好哭的好赏好活.wav",
+                    "description": {
+                        "zh-CN": "哭了吗好哭的好赏好活"
+                    }
+                },
+                {
+                    "name": "你滚你滚你滚你滚",
+                    "path": "你滚你滚你滚你滚.wav",
+                    "description": {
+                        "zh-CN": "你滚你滚你滚你滚"
+                    }
+                },
+                {
+                    "name": "看什么管人都是管人害了你",
+                    "path": "看什么管人都是管人害了你.wav",
+                    "description": {
+                        "zh-CN": "看什么管人都是管人害了你"
+                    }
+                },
+                {
+                    "name": "又是光一的gaychi",
+                    "path": "又是光一的gaychi.wav",
+                    "description": {
+                        "zh-CN": "又是光一的gaychi"
+                    }
+                },
+                {
+                    "name": "滚滚滚滚滚",
+                    "path": "滚滚滚滚滚.wav",
+                    "description": {
+                        "zh-CN": "滚滚滚滚滚"
+                    }
+                }
+            ]
+        },
+        {
+            "categoryName": "xinjiang",
+            "categoryDescription": {
+                "zh-CN": "新疆男友"
+            },
+            "voiceList": [
+                {
+                    "name": "新疆男友 不用害怕，我会保护Miki",
+                    "path": "新疆男友 不用害怕，我会保护Miki.wav",
+                    "description": {
+                        "zh-CN": "新疆男友 不用害怕，我会保护Miki"
+                    }
+                },
+                {
+                    "name": "新疆男友 大家晚上好 弥希miki的男朋友是我",
+                    "path": "新疆男友 大家晚上好 弥希miki的男朋友是我.wav",
+                    "description": {
+                        "zh-CN": "新疆男友 大家晚上好 弥希miki的男朋友是我"
+                    }
+                }    
+            ]
+        },
+        {
+            "categoryName": "other",
+            "categoryDescription": {
+                "zh-CN": "杂项语音"
+            },
+            "voiceList": [
+                {
+                    "name": "嗯嗯嗯",
+                    "path": "嗯嗯嗯.mp3",
+                    "description": {
+                        "zh-CN": "嗯嗯嗯"
+                    }
+                },
+                {
+                    "name": "嘿咻",
+                    "path": "嘿咻.mp3",
+                    "description": {
+                        "zh-CN": "嘿咻"
+                    }
+                },
+                {
+                    "name": "小天才",
+                    "path": "小天才.mp3",
+                    "description": {
+                        "zh-CN": "小天才"
+                    }
+                },
+                {
+                    "name": "扭曲",
+                    "path": "扭曲.mp3",
+                    "description": {
+                        "zh-CN": "扭曲"
+                    }
+                },
+                {
+                    "name": "拜拜，晚安",
+                    "path": "拜拜，晚安.mp3",
+                    "description": {
+                        "zh-CN": "拜拜，晚安"
+                    }
+                },
+                {
+                    "name": "擦盘子",
+                    "path": "擦盘子.mp3",
+                    "description": {
+                        "zh-CN": "擦盘子"
+                    }
+                },
+                {
+                    "name": "54321",
+                    "path": "54321.wav",
+                    "description": {
+                        "zh-CN": "54321"
+                    }
+                },
+                {
+                    "name": "bilibili干杯",
+                    "path": "bilibili干杯.wav",
+                    "description": {
+                        "zh-CN": "bilibili干杯"
+                    }
+                },
+                {
+                    "name": "hum1",
+                    "path": "hum1.wav",
+                    "description": {
+                        "zh-CN": "hum1"
+                    }
+                },
+                {
+                    "name": "hum2",
+                    "path": "hum2.wav",
+                    "description": {
+                        "zh-CN": "hum2"
+                    }
+                },
+                {
+                    "name": "hum3",
+                    "path": "hum3.wav",
+                    "description": {
+                        "zh-CN": "hum3"
+                    }
+                },
+
+                {
+                    "name": "接下来miki最期待的事情大概就是哪一天v圈爆炸",
+                    "path": "接下来miki最期待的事情大概就是哪一天v圈爆炸.wav",
+                    "description": {
+                        "zh-CN": "接下来miki最期待的事情大概就是哪一天v圈爆炸"
+                    }
+                },
+                {
+                    "name": "挺好的爽了",
+                    "path": "挺好的爽了.wav",
+                    "description": {
+                        "zh-CN": "挺好的爽了"
+                    }
+                },
+                {
+                    "name": "人活着真难",
+                    "path": "人活着真难.wav",
+                    "description": {
+                        "zh-CN": "人活着真难"
+                    }
+                },
+                {
+                    "name": "擦盘子",
+                    "path": "擦盘子.mp3",
+                    "description": {
+                        "zh-CN": "擦盘子"
+                    }
+                },
+                {
+                    "name": "我真的要死了",
+                    "path": "我真的要死了.wav",
+                    "description": {
+                        "zh-CN": "我真的要死了"
+                    }
+                },
+                {
+                    "name": "这是雪空",
+                    "path": "这是雪空.wav",
+                    "description": {
+                        "zh-CN": "这是雪空"
+                    }
+                },
+                {
+                    "name": "做人真难",
+                    "path": "做人真难.wav",
+                    "description": {
+                        "zh-CN": "做人真难"
+                    }
+                },
+                {
+                    "name": "我的好日子来了",
+                    "path": "我的好日子来了.wav",
+                    "description": {
+                        "zh-CN": "我的好日子来了"
+                    }
+                },
+                {
+                    "name": "光一哥哥",
+                    "path": "光一哥哥.wav",
+                    "description": {
+                        "zh-CN": "光一哥哥"
+                    }
+                },
+                {
+                    "name": "大家是想看miki败犬吗",
+                    "path": "大家是想看miki败犬吗.wav",
+                    "description": {
+                        "zh-CN": "大家是想看miki败犬吗"
+                    }
+                },
+                {
+                    "name": "百合豚搞快点",
+                    "path": "百合豚搞快点.wav",
+                    "description": {
+                        "zh-CN": "百合豚搞快点"
+                    }
+                },
+                {
+                    "name": "金吉拉金",
+                    "path": "金吉拉金.wav",
+                    "description": {
+                        "zh-CN": "金吉拉金"
+                    }
+                },
+                {
+                    "name": "网络害人",
+                    "path": "网络害人.wav",
+                    "description": {
+                        "zh-CN": "网络害人"
+                    }
+                },
+                {
+                    "name": "un1",
+                    "path": "un1.wav",
+                    "description": {
+                        "zh-CN": "un1"
+                    }
+                },
+                {
+                    "name": "un2",
+                    "path": "un2.wav",
+                    "description": {
+                        "zh-CN": "un2"
+                    }
+                },
+                {
+                    "name": "un3",
+                    "path": "un3.wav",
+                    "description": {
+                        "zh-CN": "un3"
+                    }
+                },
+                {
+                    "name": "un4",
+                    "path": "un4.wav",
+                    "description": {
+                        "zh-CN": "un4"
+                    }
+                },
+                {
+                    "name": "こんるる",
+                    "path": "こんるる.wav",
+                    "description": {
+                        "zh-CN": "こんるる"
+                    }
+                },
+                {
+                    "name": "miki有事",
+                    "path": "miki有事.wav",
+                    "description": {
+                        "zh-CN": "miki有事"
+                    }
+                }
+                
+
+            ]
+        }
+    ]
+}
