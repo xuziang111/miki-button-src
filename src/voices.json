@@ -170,17 +170,17 @@
                     }
                 },
                 {
-                    "name": "按照脸来说我还是非常可爱的",
-                    "path": "按照脸来说我还是非常可爱的.wav",
-                    "description": {
-                        "zh-CN": "按照脸来说我还是非常可爱的"
-                    }
-                },
-                {
                     "name": "草",
                     "path": "草.wav",
                     "description": {
                         "zh-CN": "草"
+                    }
+                },
+                {
+                    "name": "肾虚怎么了肾虚怎么了肾虚怎么了",
+                    "path": "肾虚怎么了肾虚怎么了肾虚怎么了.mp3",
+                    "description": {
+                        "zh-CN": "肾虚怎么了肾虚怎么了肾虚怎么了"
                     }
                 },
                 {
@@ -432,13 +432,6 @@
                     }
                 },
                 {
-                    "name": "擦盘子",
-                    "path": "擦盘子.mp3",
-                    "description": {
-                        "zh-CN": "擦盘子"
-                    }
-                },
-                {
                     "name": "我真的要死了",
                     "path": "我真的要死了.wav",
                     "description": {
@@ -611,6 +604,20 @@
                     "path": "呜呜呜.mp3",
                     "description": {
                         "zh-CN": "呜呜呜"
+                    }
+                },
+                {
+                    "name": "试麦",
+                    "path": "试麦.mp3",
+                    "description": {
+                        "zh-CN": "试麦"
+                    }
+                },
+                {
+                    "name": "嘟嘟嘟",
+                    "path": "嘟嘟嘟.mp3",
+                    "description": {
+                        "zh-CN": "嘟嘟嘟"
                     }
                 }
                 

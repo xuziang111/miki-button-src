@@ -6,13 +6,9 @@
                 <div class="navbar-header">
                     <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-navbar-collapse" aria-expanded="false">
                         <span class="sr-only">{{ $t("action.toggleNavbar") }}</span>
-                        <span class="icon-bar"></span>
-                        <span class="icon-bar"></span>
-                        <span class="icon-bar"></span>
                     </button>
-                    <router-link class="navbar-brand" to="/">{{ $t("info.title") }}</router-link>
+                    <a class="navbar-brand" href="/"><div>{{ $t("info.title") }}</div></a>
                 </div>
-                
                 <div class="collapse navbar-collapse" id="bs-navbar-collapse">
                     <ul class="nav navbar-nav">
                         <li><a href="https://space.bilibili.com/477317922/" target="_blank"><img src="resources/bilibili.svg" height="18"/></a></li>
@@ -36,15 +32,17 @@
             <HomePage></HomePage>
         </div>
         <footer class="footer">
-            <div class="container-fluid footer-content">
-                <div class="pull-right">
+                <div>
+                    <div>{{$t("info.audioStaff")}}</div>
+                    <div>友情链接:<a href="https://www.mihiru.com">mihiru.com</a> <a href="https://mahiru-vr.github.io/">孟按钮</a></div>
+                    <div>音频投稿:touhou@lolimy.cn github 或者弥四丢群文件</div>
+                </div>
+                <div>
                     <div class="text-right"><a href="https://github.com/zyzsdy/aqua-button" target="_blank">原项目</a></div>
                     <div class="text-right">本项目<a href="https://github.com/xuziang111/miki-button-src" target="_blank">{{$t("info.toGithub")}}</a></div>
                     <div class="text-right">{{$t("info.notOfficial")}}</div>
                 </div>
-                <div>{{$t("info.audioStaff")}}</div>
                 <!-- <div>Zyzsdy 2019-2020 <span style="color: rgba(0, 0, 0, 0.1)">Powered By Meowsound Idols</span></div> -->
-            </div>
         </footer>
   </div>
 </template>
@@ -55,17 +53,24 @@ body{
     padding-top: 70px;
 }
 .main-content{
-    min-height: 100vh;
+    // min-height: 100vh;
 }
 .footer {
     width: 100%;
-    height: 60px;
     background-color: #ebebeb;
-}
-.footer-content {
-    padding-top: 10px;
+        display:flex;
+    padding: 10px;
     color: #666;
+    justify-content:space-between;
+    align-items: center;
 }
+// .footer-content {
+//     display:flex;
+//     padding-top: 10px;
+//     color: #666;
+//     justify-content:space-between;
+//     align-items: center;
+// }
 .text-right{
     text-align: right;
 }
