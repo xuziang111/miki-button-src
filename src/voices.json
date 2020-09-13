@@ -89,6 +89,13 @@
                     "description": {
                         "zh-CN": "笑"
                     }
+                },
+                {
+                    "name": "呜",
+                    "path": "呜.wav",
+                    "description": {
+                        "zh-CN": "呜"
+                    }
                 }
 
             ]
@@ -261,6 +268,13 @@
                     }
                 },
                 {
+                    "name": "实属拉胯",
+                    "path": "实属拉胯.wav",
+                    "description": {
+                        "zh-CN": "实属拉胯"
+                    }
+                },
+                {
                     "name": "我道歉了你们还想怎么样",
                     "path": "我道歉了你们还想怎么样.mp3",
                     "description": {
@@ -279,6 +293,34 @@
                     "path": "你们怎么这么懂.mp3",
                     "description": {
                         "zh-CN": "你们怎么这么懂"
+                    }
+                },
+                {
+                    "name": "我们是最潮最in的二次元耶",
+                    "path": "我们是最潮最in的二次元耶.wav",
+                    "description": {
+                        "zh-CN": "我们是最潮最in的二次元耶"
+                    }
+                },
+                {
+                    "name": "你就是网上说的二次元对不对",
+                    "path": "你就是网上说的二次元对不对.wav",
+                    "description": {
+                        "zh-CN": "你就是网上说的二次元对不对"
+                    }
+                },
+                {
+                    "name": "河豚费拉不堪",
+                    "path": "河豚费拉不堪.wav",
+                    "description": {
+                        "zh-CN": "河豚费拉不堪"
+                    }
+                },
+                {
+                    "name": "你们连我的弱智人设也要抢吗",
+                    "path": "你们连我的弱智人设也要抢吗.mp3",
+                    "description": {
+                        "zh-CN": "你们连我的弱智人设也要抢吗"
                     }
                 }
             ]
@@ -375,6 +417,13 @@
                     }
                 },
                 {
+                    "name": "擦盘子4",
+                    "path": "擦盘子4.wav",
+                    "description": {
+                        "zh-CN": "擦盘子4"
+                    }
+                },
+                {
                     "name": "54321",
                     "path": "54321.wav",
                     "description": {
@@ -436,6 +485,13 @@
                     "path": "我真的要死了.wav",
                     "description": {
                         "zh-CN": "我真的要死了"
+                    }
+                },
+                {
+                    "name": "太弥惑了",
+                    "path": "太弥惑了.wav",
+                    "description": {
+                        "zh-CN": "太弥惑了"
                     }
                 },
                 {
@@ -618,6 +674,55 @@
                     "path": "嘟嘟嘟.mp3",
                     "description": {
                         "zh-CN": "嘟嘟嘟"
+                    }
+                },
+                {
+                    "name": "MHR真绯瑠霸凌我",
+                    "path": "MHR真绯瑠霸凌我.wav",
+                    "description": {
+                        "zh-CN": "MHR真绯瑠霸凌我"
+                    }
+                },
+                {
+                    "name": "un？",
+                    "path": "un？.wav",
+                    "description": {
+                        "zh-CN": "un？"
+                    }
+                },
+                {
+                    "name": "真绯瑠 ver睡醒",
+                    "path": "真绯瑠 ver.睡醒.wav",
+                    "description": {
+                        "zh-CN": "真绯瑠 ver睡醒"
+                    }
+                },
+                {
+                    "name": "好困呐呜嗯",
+                    "path": "好困呐呜嗯.wav",
+                    "description": {
+                        "zh-CN": "好困呐呜嗯"
+                    }
+                },
+                {
+                    "name": "你要我换你的衣服还要我上你的床",
+                    "path": "你要我换你的衣服还要我上你的床.wav",
+                    "description": {
+                        "zh-CN": "你要我换你的衣服还要我上你的床"
+                    }
+                },
+                {
+                    "name": "没有你的笑怎么睡得着",
+                    "path": "没有你的笑怎么睡得着.wav",
+                    "description": {
+                        "zh-CN": "没有你的笑怎么睡得着"
+                    }
+                },
+                {
+                    "name": "没了我你是不会快乐的",
+                    "path": "没了我你是不会快乐的.mp3",
+                    "description": {
+                        "zh-CN": "没了我你是不会快乐的"
                     }
                 }
                 
