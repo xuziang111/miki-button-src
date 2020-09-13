@@ -77,10 +77,10 @@
                     }
                 },
                 {
-                    "name": "呜",
-                    "path": "呜.mp3",
+                    "name": "呜呜",
+                    "path": "呜呜.mp3",
                     "description": {
-                        "zh-CN": "呜"
+                        "zh-CN": "呜呜"
                     }
                 },
                 {
@@ -681,6 +681,13 @@
                     "path": "嘟嘟嘟.mp3",
                     "description": {
                         "zh-CN": "嘟嘟嘟"
+                    }
+                },
+                {
+                    "name": "在学了 在学了",
+                    "path": "在学了 在学了.mp3",
+                    "description": {
+                        "zh-CN": "在学了 在学了"
                     }
                 },
                 {

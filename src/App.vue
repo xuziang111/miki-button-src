@@ -49,8 +49,18 @@
 
 <style lang="scss">
 @import "../node_modules/bootstrap/dist/css/bootstrap.css";
+html{
+    height:100%;
+}
 body{
     padding-top: 70px;
+    height:100%;
+}
+#app{
+    min-height:100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
 }
 .main-content{
     // min-height: 100vh;
