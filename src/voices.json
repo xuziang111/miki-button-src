@@ -705,6 +705,13 @@
                     }
                 },
                 {
+                    "name": "mahiruです",
+                    "path": "mahiruです.mp3",
+                    "description": {
+                        "zh-CN": "mahiruです"
+                    }
+                },
+                {
                     "name": "你要我换你的衣服还要我上你的床",
                     "path": "你要我换你的衣服还要我上你的床.wav",
                     "description": {
