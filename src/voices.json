@@ -78,7 +78,7 @@
                 },
                 {
                     "name": "呜呜",
-                    "path": "呜呜.mp3",
+                    "path": "呜.mp3",
                     "description": {
                         "zh-CN": "呜呜"
                     }
@@ -95,6 +95,34 @@
                     "path": "呜.wav",
                     "description": {
                         "zh-CN": "呜"
+                    }
+                },
+                {
+                    "name": "哎",
+                    "path": "哎.mp3",
+                    "description": {
+                        "zh-CN": "哎"
+                    }
+                },
+                {
+                    "name": "en",
+                    "path": "en.mp3",
+                    "description": {
+                        "zh-CN": "en"
+                    }
+                },
+                {
+                    "name": "en2",
+                    "path": "en2.mp3",
+                    "description": {
+                        "zh-CN": "en2"
+                    }
+                },
+                {
+                    "name": "en3",
+                    "path": "en3.mp3",
+                    "description": {
+                        "zh-CN": "en3"
                     }
                 }
 
@@ -230,6 +258,13 @@
                     "path": "miki什么时候失言过.wav",
                     "description": {
                         "zh-CN": "miki什么时候失言过"
+                    }
+                },
+                {
+                    "name": "cxly",
+                    "path": "cxly.mp3",
+                    "description": {
+                        "zh-CN": "cxly"
                     }
                 },
                 {
@@ -379,6 +414,13 @@
                     "path": "嘿咻.mp3",
                     "description": {
                         "zh-CN": "嘿咻"
+                    }
+                },
+                {
+                    "name": "嘿咻2",
+                    "path": "嘿咻2.mp3",
+                    "description": {
+                        "zh-CN": "嘿咻2"
                     }
                 },
                 {
