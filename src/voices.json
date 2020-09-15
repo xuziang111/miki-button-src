@@ -635,6 +635,20 @@
                     }
                 },
                 {
+                    "name": "un5",
+                    "path": "un5.mp3",
+                    "description": {
+                        "zh-CN": "un5"
+                    }
+                },
+                {
+                    "name": "un6",
+                    "path": "un6.mp3",
+                    "description": {
+                        "zh-CN": "un6"
+                    }
+                },
+                {
                     "name": "こんるる",
                     "path": "こんるる.mp3",
                     "description": {
@@ -796,6 +810,13 @@
                     }
                 },
                 {
+                    "name": "怪声",
+                    "path": "怪声.mp3",
+                    "description": {
+                        "zh-CN": "怪声"
+                    }
+                },
+                {
                     "name": "一个月30小时每天一小时多健康呢",
                     "path": "一个月30小时每天一小时多健康呢.mp3",
                     "description": {
@@ -821,6 +842,55 @@
                     "path": "在努力了 在努力了.mp3",
                     "description": {
                         "zh-CN": "在努力了 在努力了"
+                    }
+                },
+                {
+                    "name": "假笑",
+                    "path": "假笑.mp3",
+                    "description": {
+                        "zh-CN": "假笑"
+                    }
+                },
+                {
+                    "name": "晦气",
+                    "path": "晦气.mp3",
+                    "description": {
+                        "zh-CN": "晦气"
+                    }
+                },
+                {
+                    "name": "不要",
+                    "path": "不要.mp3",
+                    "description": {
+                        "zh-CN": "不要"
+                    }
+                },
+                {
+                    "name": "ya",
+                    "path": "ya.mp3",
+                    "description": {
+                        "zh-CN": "ya"
+                    }
+                },
+                {
+                    "name": "mhr是纯0吗 我觉得是",
+                    "path": "mhr是纯0吗 我觉得是.mp3",
+                    "description": {
+                        "zh-CN": "mhr是纯0吗 我觉得是"
+                    }
+                },
+                {
+                    "name": "苦笑",
+                    "path": "苦笑.mp3",
+                    "description": {
+                        "zh-CN": "苦笑"
+                    }
+                },
+                {
+                    "name": "太弱智了",
+                    "path": "太弱智了.mp3",
+                    "description": {
+                        "zh-CN": "太弱智了"
                     }
                 }
                 
