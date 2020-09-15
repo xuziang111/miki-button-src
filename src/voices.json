@@ -124,6 +124,13 @@
                     "description": {
                         "zh-CN": "en3"
                     }
+                },
+                {
+                    "name": "？？？",
+                    "path": "？？？.mp3",
+                    "description": {
+                        "zh-CN": "？？？"
+                    }
                 }
 
             ]
@@ -370,6 +377,13 @@
                     "path": "别骂了别骂了别骂了.mp3",
                     "description": {
                         "zh-CN": "别骂了别骂了别骂了"
+                    }
+                },
+                {
+                    "name": "嗨下-",
+                    "path": "嗨下-.mp3",
+                    "description": {
+                        "zh-CN": "嗨下-"
                     }
                 }
             ]
@@ -852,10 +866,17 @@
                     }
                 },
                 {
-                    "name": "晦气",
-                    "path": "晦气.mp3",
+                    "name": "晦气1",
+                    "path": "晦气1.mp3",
                     "description": {
-                        "zh-CN": "晦气"
+                        "zh-CN": "晦气1"
+                    }
+                },
+                {
+                    "name": "晦气2",
+                    "path": "晦气2.mp3",
+                    "description": {
+                        "zh-CN": "晦气2"
                     }
                 },
                 {
