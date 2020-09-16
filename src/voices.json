@@ -131,6 +131,13 @@
                     "description": {
                         "zh-CN": "？？？"
                     }
+                },
+                {
+                    "name": "我也喜欢你啊",
+                    "path": "我也喜欢你啊.mp3",
+                    "description": {
+                        "zh-CN": "我也喜欢你啊"
+                    }
                 }
 
             ]
@@ -491,6 +498,13 @@
                     "path": "擦盘子4.mp3",
                     "description": {
                         "zh-CN": "擦盘子4"
+                    }
+                },
+                {
+                    "name": "擦盘子5",
+                    "path": "擦盘子5.mp3",
+                    "description": {
+                        "zh-CN": "擦盘子5"
                     }
                 },
                 {
@@ -914,10 +928,52 @@
                     }
                 },
                 {
+                    "name": "苦笑2",
+                    "path": "苦笑2.mp3",
+                    "description": {
+                        "zh-CN": "苦笑2"
+                    }
+                },
+                {
                     "name": "太弱智了",
                     "path": "太弱智了.mp3",
                     "description": {
                         "zh-CN": "太弱智了"
+                    }
+                },
+                {
+                    "name": "老PUA了",
+                    "path": "老PUA了.mp3",
+                    "description": {
+                        "zh-CN": "老PUA了"
+                    }
+                },
+                {
+                    "name": "棒读",
+                    "path": "棒读.mp3",
+                    "description": {
+                        "zh-CN": "棒读"
+                    }
+                },
+                {
+                    "name": "棉花糖",
+                    "path": "棉花糖.mp3",
+                    "description": {
+                        "zh-CN": "棉花糖"
+                    }
+                },
+                {
+                    "name": "都是营业",
+                    "path": "都是营业.mp3",
+                    "description": {
+                        "zh-CN": "都是营业"
+                    }
+                },
+                {
+                    "name": "打嗝",
+                    "path": "打嗝.mp3",
+                    "description": {
+                        "zh-CN": "打嗝"
                     }
                 }
                 

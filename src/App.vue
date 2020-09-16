@@ -2,19 +2,24 @@
   <div id="app">
         <Modal></Modal>
         <nav class="navbar navbar-default navbar-fixed-top">
-            <div class="container-fluid">
+            <div class="container-fluid" id="top-header">
                 <div class="navbar-header">
-                    <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-navbar-collapse" aria-expanded="false">
+                    <!-- <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-navbar-collapse" aria-expanded="false">
                         <span class="sr-only">{{ $t("action.toggleNavbar") }}</span>
-                    </button>
+                    </button> -->
                     <a class="navbar-brand" href="/"><div>{{ $t("info.title") }}</div></a>
                 </div>
-                <div class="collapse navbar-collapse" id="bs-navbar-collapse">
+                <div class="brand1">
+                    <a href="https://space.bilibili.com/477317922/" target="_blank"><img src="resources/bilibili.svg" height="18"/></a>
+                </div>
+                <div class="brand1">
+                    请注意音量大小
+                </div>
+                <!-- <div class="collapse navbar-collapse" id="bs-navbar-collapse">
                     <ul class="nav navbar-nav">
                         <li><a href="https://space.bilibili.com/477317922/" target="_blank"><img src="resources/bilibili.svg" height="18"/></a></li>
-                        <!-- <li><a href="https://twitter.com/minatoaqua" target="_blank"><img src="resources/Twitter_Social_Icon_Circle_Color.png" height="18"/></a></li> -->
                     </ul>
-                    <!-- <ul class="nav navbar-nav navbar-right">
+                    <ul class="nav navbar-nav navbar-right">
                         <li class="dropdown">
                             <a href="javascript:;" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">{{$t("lang." + currentLang)}} <span class="caret"></span></a>
                             <ul class="dropdown-menu">
@@ -23,9 +28,8 @@
                                 <li><a href="javascript:;" @click="chlang('ja-JP')">{{$t("lang.ja-JP")}}</a></li>
                             </ul>
                         </li>
-                    </ul> -->
-                </div>
-
+                    </ul>
+                </div> -->
             </div>
         </nav>
         <div class="container-fluid main-content">
@@ -49,6 +53,15 @@
 
 <style lang="scss">
 @import "../node_modules/bootstrap/dist/css/bootstrap.css";
+#top-header{
+    display:flex;
+}
+.brand1{
+    padding:0 5px 0 5px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
 html{
     height:100%;
 }
