@@ -138,6 +138,20 @@
                     "description": {
                         "zh-CN": "我也喜欢你啊"
                     }
+                },
+                {
+                    "name": "不够精神重来",
+                    "path": "不够精神重来.mp3",
+                    "description": {
+                        "zh-CN": "不够精神重来"
+                    }
+                },
+                {
+                    "name": "dadadajujuju",
+                    "path": "dadadajujuju.mp3",
+                    "description": {
+                        "zh-CN": "dadadajujuju"
+                    }
                 }
 
             ]
@@ -398,6 +412,13 @@
                     "path": "别骂了别骂了别骂了.mp3",
                     "description": {
                         "zh-CN": "别骂了别骂了别骂了"
+                    }
+                },
+                {
+                    "name": "你好强哦你好厉害",
+                    "path": "你好强哦你好厉害.mp3",
+                    "description": {
+                        "zh-CN": "你好强哦你好厉害"
                     }
                 },
                 {
@@ -1087,9 +1108,87 @@
                     "description": {
                         "zh-CN": "打嗝"
                     }
+                },
+                {
+                    "name": "弥希miki是给大家带来笑容的主播",
+                    "path": "弥希miki是给大家带来笑容的主播.mp3",
+                    "description": {
+                        "zh-CN": "弥希miki是给大家带来笑容的主播"
+                    }
+                },
+                {
+                    "name": "太真实了",
+                    "path": "太真实了.mp3",
+                    "description": {
+                        "zh-CN": "太真实了"
+                    }
+                },
+                {
+                    "name": "问题不大",
+                    "path": "问题不大.mp3",
+                    "description": {
+                        "zh-CN": "问题不大"
+                    }
+                },
+                {
+                    "name": "今天是mhr的最后一天",
+                    "path": "今天是mhr的最后一天.mp3",
+                    "description": {
+                        "zh-CN": "今天是mhr的最后一天"
+                    }
+                },
+                {
+                    "name": "听不到",
+                    "path": "听不到.mp3",
+                    "description": {
+                        "zh-CN": "听 不 到"
+                    }
+                },
+                {
+                    "name": "我瞎了",
+                    "path": "我瞎了.mp3",
+                    "description": {
+                        "zh-CN": "我 瞎 了"
+                    }
+                },
+                {
+                    "name": "摇篮曲",
+                    "path": "摇篮曲.mp3",
+                    "description": {
+                        "zh-CN": "摇 篮 曲"
+                    }
                 }
                 
 
+            ]
+        },
+        {
+            "categoryName": "zhangyu",
+            "categoryDescription": {
+                "zh-CN": "丈 育"
+            },
+            "voiceList": [
+                {
+                    "name": "传送锚点",
+                    "path": "传送锚点.mp3",
+                    "description": {
+                        "zh-CN": "传送锚máo点"
+                    }
+                },
+                {
+                    "name": "执拗",
+                    "path": "执拗.mp3",
+                    "description": {
+                        "zh-CN": "执拗niù"
+                    }
+                },
+                {
+                    "name": "忌讳",
+                    "path": "忌讳.mp3",
+                    "description": {
+                        "zh-CN": "忌讳huì"
+                    }
+                }    
             ]
         },
         {
@@ -1111,7 +1210,14 @@
                     "description": {
                         "zh-CN": "我，只会喜欢上女孩子"
                     }
-                }     
+                },
+                {
+                    "name": "那我最会",
+                    "path": "那我最会.mp3",
+                    "description": {
+                        "zh-CN": "那我最会"
+                    }
+                }   
             ]
         },
         {
