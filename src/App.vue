@@ -15,6 +15,9 @@
                 <div class="brand1">
                     请注意音量大小
                 </div>
+                <div class="brand1">
+                    <a href="https://www.bilibili.com/video/BV11D4y1d7wm/" target="_blank">不来听听歌吗</a>
+                </div>
                 <!-- <div class="collapse navbar-collapse" id="bs-navbar-collapse">
                     <ul class="nav navbar-nav">
                         <li><a href="https://space.bilibili.com/477317922/" target="_blank"><img src="resources/bilibili.svg" height="18"/></a></li>
