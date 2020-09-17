@@ -366,6 +366,20 @@
                     }
                 },
                 {
+                    "name": "我像是会做这种龌龊之事的人吗",
+                    "path": "我像是会做这种龌龊之事的人吗.mp3",
+                    "description": {
+                        "zh-CN": "我像是会做这种龌龊之事的人吗"
+                    }
+                },
+                {
+                    "name": "这河里吗",
+                    "path": "这河里吗.mp3",
+                    "description": {
+                        "zh-CN": "这河里吗"
+                    }
+                },
+                {
                     "name": "河豚费拉不堪",
                     "path": "河豚费拉不堪.mp3",
                     "description": {
@@ -449,6 +463,13 @@
                     "path": "嘿咻2.mp3",
                     "description": {
                         "zh-CN": "嘿咻2"
+                    }
+                },
+                {
+                    "name": "嘿咻3",
+                    "path": "嘿咻3.mp3",
+                    "description": {
+                        "zh-CN": "嘿咻3"
                     }
                 },
                 {
@@ -641,6 +662,41 @@
                     }
                 },
                 {
+                    "name": "mhr真绯瑠你好狠毒",
+                    "path": "mhr真绯瑠你好狠毒.mp3",
+                    "description": {
+                        "zh-CN": "mhr真绯瑠你好狠毒"
+                    }
+                },
+                {
+                    "name": "啊这",
+                    "path": "啊这.mp3",
+                    "description": {
+                        "zh-CN": "啊这"
+                    }
+                },
+                {
+                    "name": "才过了几天就已经不认得我这个主人了",
+                    "path": "才过了几天就已经不认得我这个主人了.mp3",
+                    "description": {
+                        "zh-CN": "才过了几天就已经不认得我这个主人了"
+                    }
+                },
+                {
+                    "name": "以后就是我的形状了",
+                    "path": "以后就是我的形状了.mp3",
+                    "description": {
+                        "zh-CN": "以后就是我的形状了"
+                    }
+                },
+                {
+                    "name": "你好温柔",
+                    "path": "你好温柔.mp3",
+                    "description": {
+                        "zh-CN": "你好温柔"
+                    }
+                },
+                {
                     "name": "un1",
                     "path": "un1.mp3",
                     "description": {
@@ -680,6 +736,20 @@
                     "path": "un6.mp3",
                     "description": {
                         "zh-CN": "un6"
+                    }
+                },
+                {
+                    "name": "un7",
+                    "path": "un7.mp3",
+                    "description": {
+                        "zh-CN": "un7"
+                    }
+                },
+                {
+                    "name": "un8",
+                    "path": "un8.mp3",
+                    "description": {
+                        "zh-CN": "un8"
                     }
                 },
                 {
@@ -851,6 +921,34 @@
                     }
                 },
                 {
+                    "name": "怪声2",
+                    "path": "怪声2.mp3",
+                    "description": {
+                        "zh-CN": "怪声2"
+                    }
+                },
+                {
+                    "name": "怪声3",
+                    "path": "怪声3.mp3",
+                    "description": {
+                        "zh-CN": "怪声3"
+                    }
+                },
+                {
+                    "name": "假哭",
+                    "path": "假哭.mp3",
+                    "description": {
+                        "zh-CN": "假哭"
+                    }
+                },
+                {
+                    "name": "假哭2",
+                    "path": "假哭2.mp3",
+                    "description": {
+                        "zh-CN": "假哭2"
+                    }
+                },
+                {
                     "name": "一个月30小时每天一小时多健康呢",
                     "path": "一个月30小时每天一小时多健康呢.mp3",
                     "description": {
@@ -911,6 +1009,20 @@
                     "path": "ya.mp3",
                     "description": {
                         "zh-CN": "ya"
+                    }
+                },
+                {
+                    "name": "ya2",
+                    "path": "ya2.mp3",
+                    "description": {
+                        "zh-CN": "ya2"
+                    }
+                },
+                {
+                    "name": "ya3",
+                    "path": "ya3.mp3",
+                    "description": {
+                        "zh-CN": "ya3"
                     }
                 },
                 {
@@ -978,6 +1090,28 @@
                 }
                 
 
+            ]
+        },
+        {
+            "categoryName": "duanzhangquyi",
+            "categoryDescription": {
+                "zh-CN": "断 章 取 义"
+            },
+            "voiceList": [
+                {
+                    "name": "我观察mhr已久",
+                    "path": "我观察mhr已久.mp3",
+                    "description": {
+                        "zh-CN": "我观察mhr已久"
+                    }
+                },
+                {
+                    "name": "我，只会喜欢上女孩子",
+                    "path": "我，只会喜欢上女孩子.mp3",
+                    "description": {
+                        "zh-CN": "我，只会喜欢上女孩子"
+                    }
+                }     
             ]
         },
         {
