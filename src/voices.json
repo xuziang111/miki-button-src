@@ -427,6 +427,13 @@
                     "description": {
                         "zh-CN": "嗨下-"
                     }
+                },
+                {
+                    "name": "先爱自己 再爱别人 特别是管人",
+                    "path": "先爱自己 再爱别人 特别是管人.mp3",
+                    "description": {
+                        "zh-CN": "先爱自己 再爱别人 特别是管人"
+                    }
                 }
             ]
         },
@@ -1194,6 +1201,13 @@
                     "path": "传送锚点.mp3",
                     "description": {
                         "zh-CN": "传送锚máo点"
+                    }
+                },
+                {
+                    "name": "我怯怯的后退",
+                    "path": "我怯怯的后退.mp3",
+                    "description": {
+                        "zh-CN": "我怯怯qièqiè的后退"
                     }
                 }
             ]
