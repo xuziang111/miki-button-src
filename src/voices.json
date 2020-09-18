@@ -1169,10 +1169,10 @@
             },
             "voiceList": [
                 {
-                    "name": "传送锚点",
-                    "path": "传送锚点.mp3",
+                    "name": "美轮美奂",
+                    "path": "美轮美奂.mp3",
                     "description": {
-                        "zh-CN": "传送锚máo点"
+                        "zh-CN": "美轮美奂huàn"
                     }
                 },
                 {
@@ -1188,7 +1188,14 @@
                     "description": {
                         "zh-CN": "忌讳huì"
                     }
-                }    
+                },
+                {
+                    "name": "传送锚点",
+                    "path": "传送锚点.mp3",
+                    "description": {
+                        "zh-CN": "传送锚máo点"
+                    }
+                },    
             ]
         },
         {
