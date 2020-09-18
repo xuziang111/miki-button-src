@@ -42,7 +42,7 @@
                 <div>
                     <div>{{$t("info.audioStaff")}}</div>
                     <div>友情链接:<a href="https://www.mihiru.com">mihiru.com</a> <a href="https://mahiru-vr.github.io/">孟按钮</a></div>
-                    <div>音频投稿:touhou@lolimy.cn github 或者弥四丢群文件</div>
+                    <div>音频投稿:touhou@lolimy.cn github 或者弥四/魔球群丢群文件</div>
                 </div>
                 <div>
                     <div class="text-right"><a href="https://github.com/zyzsdy/aqua-button" target="_blank">原项目</a></div>
