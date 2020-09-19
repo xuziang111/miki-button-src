@@ -422,6 +422,20 @@
                     }
                 },
                 {
+                    "name": "因为很伤心不要再说了",
+                    "path": "因为很伤心不要再说了.mp3",
+                    "description": {
+                        "zh-CN": "因为很伤心不要再说了"
+                    }
+                },
+                {
+                    "name": "没有感情哪来乐子",
+                    "path": "没有感情哪来乐子.mp3",
+                    "description": {
+                        "zh-CN": "没有感情哪来乐子"
+                    }
+                },
+                {
                     "name": "嗨下-",
                     "path": "嗨下-.mp3",
                     "description": {
@@ -963,6 +977,13 @@
                     }
                 },
                 {
+                    "name": "怪声4",
+                    "path": "怪声4.mp3",
+                    "description": {
+                        "zh-CN": "怪声4"
+                    }
+                },
+                {
                     "name": "假哭",
                     "path": "假哭.mp3",
                     "description": {
@@ -1163,6 +1184,69 @@
                     "path": "摇篮曲.mp3",
                     "description": {
                         "zh-CN": "摇 篮 曲"
+                    }
+                },
+                {
+                    "name": "可爱",
+                    "path": "可爱.mp3",
+                    "description": {
+                        "zh-CN": "可爱"
+                    }
+                },
+                {
+                    "name": "确实",
+                    "path": "确实.mp3",
+                    "description": {
+                        "zh-CN": "确实"
+                    }
+                },
+                {
+                    "name": "懂我",
+                    "path": "懂我.mp3",
+                    "description": {
+                        "zh-CN": "懂我"
+                    }
+                },
+                {
+                    "name": "精彩",
+                    "path": "精彩.mp3",
+                    "description": {
+                        "zh-CN": "精彩"
+                    }
+                },
+                {
+                    "name": "魔球冲呀",
+                    "path": "魔球冲呀.mp3",
+                    "description": {
+                        "zh-CN": "魔球冲呀"
+                    }
+                },
+                {
+                    "name": "包包叫",
+                    "path": "包包叫.mp3",
+                    "description": {
+                        "zh-CN": "包包叫"
+                    }
+                },
+                {
+                    "name": "你怎么能把快乐建立在别人痛苦之上",
+                    "path": "你怎么能把快乐建立在别人痛苦之上.mp3",
+                    "description": {
+                        "zh-CN": "你怎么能把快乐建立在别人痛苦之上"
+                    }
+                },
+                {
+                    "name": "总要带点绿生活才能过得去",
+                    "path": "总要带点绿生活才能过得去.mp3",
+                    "description": {
+                        "zh-CN": "总要带点绿生活才能过得去"
+                    }
+                },
+                {
+                    "name": "jujujuju",
+                    "path": "jujujuju.mp3",
+                    "description": {
+                        "zh-CN": "jujujuju"
                     }
                 }
                 
