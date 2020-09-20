@@ -718,6 +718,13 @@
                     }
                 },
                 {
+                    "name": "啊这2",
+                    "path": "啊这2.mp3",
+                    "description": {
+                        "zh-CN": "啊这2"
+                    }
+                },
+                {
                     "name": "才过了几天就已经不认得我这个主人了",
                     "path": "才过了几天就已经不认得我这个主人了.mp3",
                     "description": {
@@ -1247,6 +1254,34 @@
                     "path": "jujujuju.mp3",
                     "description": {
                         "zh-CN": "jujujuju"
+                    }
+                },
+                {
+                    "name": "这合理吗",
+                    "path": "这合理吗.mp3",
+                    "description": {
+                        "zh-CN": "这合理吗"
+                    }
+                },
+                {
+                    "name": "生日快乐",
+                    "path": "生日快乐.mp3",
+                    "description": {
+                        "zh-CN": "生日快乐"
+                    }
+                },
+                {
+                    "name": "心想事成",
+                    "path": "心想事成.mp3",
+                    "description": {
+                        "zh-CN": "心想事成"
+                    }
+                },
+                {
+                    "name": "平平淡淡才是真",
+                    "path": "平平淡淡才是真.mp3",
+                    "description": {
+                        "zh-CN": "平平淡淡才是真"
                     }
                 }
                 
