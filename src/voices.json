@@ -443,6 +443,13 @@
                     }
                 },
                 {
+                    "name": "看那个人是河豚",
+                    "path": "看那个人是河豚.mp3",
+                    "description": {
+                        "zh-CN": "看那个人是河豚"
+                    }
+                },
+                {
                     "name": "先爱自己 再爱别人 特别是管人",
                     "path": "先爱自己 再爱别人 特别是管人.mp3",
                     "description": {
@@ -1261,6 +1268,13 @@
                     "path": "这合理吗.mp3",
                     "description": {
                         "zh-CN": "这合理吗"
+                    }
+                },
+                {
+                    "name": "miki觉得mahiru",
+                    "path": "miki觉得mahiru.mp3",
+                    "description": {
+                        "zh-CN": "miki觉得mahiru"
                     }
                 },
                 {
