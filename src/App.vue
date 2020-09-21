@@ -37,6 +37,9 @@
         </nav>
         <div class="container-fluid main-content">
             <HomePage></HomePage>
+            <div class="container-fluid img-center" >
+                <img src="resources/yanhuo.gif">
+            </div> 
         </div>
         <footer class="footer">
                 <div>
@@ -58,6 +61,11 @@
 @import "../node_modules/bootstrap/dist/css/bootstrap.css";
 #top-header{
     display:flex;
+}
+.img-center{
+    display:flex;
+    justify-content: center;
+    padding:10px 0 10px 0;
 }
 .brand1{
     padding:0 5px 0 5px;
