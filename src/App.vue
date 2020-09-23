@@ -37,9 +37,9 @@
         </nav>
         <div class="container-fluid main-content">
             <HomePage></HomePage>
-            <div class="container-fluid img-center" >
+            <!-- <div class="container-fluid img-center" >
                 <img src="resources/yanhuo.gif">
-            </div> 
+            </div>  -->
         </div>
         <footer class="footer">
                 <div>
