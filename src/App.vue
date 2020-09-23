@@ -40,6 +40,9 @@
             <!-- <div class="container-fluid img-center" >
                 <img src="resources/yanhuo.gif">
             </div>  -->
+            <div :class=xxx >
+                <img src="resources/mikid.png">
+            </div> 
         </div>
         <footer class="footer">
                 <div>
@@ -61,6 +64,22 @@
 @import "../node_modules/bootstrap/dist/css/bootstrap.css";
 #top-header{
     display:flex;
+}
+.img-left{
+    position: fixed;
+    z-index: -1;
+    top:0;
+    right:-100px;
+}
+.img-center2{
+    position: fixed;
+    z-index: -1;
+    
+    top:0;
+    right:-300px;
+}
+.img-center2 img{
+    width:100%;
 }
 .img-center{
     display:flex;
@@ -127,10 +146,20 @@ class App extends Vue {
     get currentLang(){
         return this.$i18n.locale;
     }
+    data(){
+        return {
+            xxx:'container-fluid img-left'
+        }
+    }
     created(){
         // eslint-disable-next-line 
         console.log("Produced by MoewSound Idols");
         this.$i18n.locale = localStorage.getItem("lang") || this.$i18n.locale;
+    }
+    mounted(){
+        if(document.body.clientWidth<768){
+            this.xxx = 'container-fluid img-center2'
+        }
     }
     chlang(v){
         this.$i18n.locale = v;
