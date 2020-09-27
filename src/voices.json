@@ -450,6 +450,13 @@
                     }
                 },
                 {
+                    "name": "钓鱼高级点兄弟们",
+                    "path": "钓鱼高级点兄弟们.mp3",
+                    "description": {
+                        "zh-CN": "钓鱼高级点兄弟们"
+                    }
+                },
+                {
                     "name": "希望大家今晚睡不着",
                     "path": "希望大家今晚睡不着.mp3",
                     "description": {
@@ -1319,35 +1326,112 @@
                     "name": "美轮美奂",
                     "path": "美轮美奂.mp3",
                     "description": {
-                        "zh-CN": "美轮美奂huàn 用来形容房屋"
+                        "zh-CN": "美轮美奂(huàn) 用来形容房屋"
                     }
                 },
                 {
                     "name": "执拗",
                     "path": "执拗.mp3",
                     "description": {
-                        "zh-CN": "执拗niù"
+                        "zh-CN": "执拗(niù)"
+                    }
+                },
+                {
+                    "name": "执拗2",
+                    "path": "执拗2.mp3",
+                    "description": {
+                        "zh-CN": "总觉得有些执拗(niù) 2"
                     }
                 },
                 {
                     "name": "忌讳",
                     "path": "忌讳.mp3",
                     "description": {
-                        "zh-CN": "忌讳huì"
+                        "zh-CN": "忌讳(huì)"
                     }
                 },
                 {
                     "name": "传送锚点",
                     "path": "传送锚点.mp3",
                     "description": {
-                        "zh-CN": "传送锚máo点"
+                        "zh-CN": "传送锚(máo)点"
                     }
                 },
                 {
                     "name": "我怯怯的后退",
                     "path": "我怯怯的后退.mp3",
                     "description": {
-                        "zh-CN": "我怯怯qièqiè的后退"
+                        "zh-CN": "我怯怯(qièqiè)的后退"
+                    }
+                },
+                {
+                    "name": "巴蜀九浊之地",
+                    "path": "巴蜀九浊之地.mp3",
+                    "description": {
+                        "zh-CN": "巴蜀(shǔ)九浊之地"
+                    }
+                },
+                {
+                    "name": "道观",
+                    "path": "道观.mp3",
+                    "description": {
+                        "zh-CN": "道观(guàn)"
+                    }
+                },
+                {
+                    "name": "笃定",
+                    "path": "笃定.mp3",
+                    "description": {
+                        "zh-CN": "你会对自己看到的东西如此笃(dǔ)定"
+                    }
+                },
+                {
+                    "name": "堆砌",
+                    "path": "堆砌.mp3",
+                    "description": {
+                        "zh-CN": "已经堆砌(qì)成了"
+                    }
+                },
+                {
+                    "name": "繁文缛节",
+                    "path": "繁文缛节.mp3",
+                    "description": {
+                        "zh-CN": "将他看成繁文缛(rù)节"
+                    }
+                },
+                {
+                    "name": "混沌",
+                    "path": "混沌.mp3",
+                    "description": {
+                        "zh-CN": "自己都说出混(hùn)沌了"
+                    }
+                },
+                {
+                    "name": "蛆虫",
+                    "path": "蛆虫.mp3",
+                    "description": {
+                        "zh-CN": "蛆(qū)虫"
+                    }
+                },
+                {
+                    "name": "献牲",
+                    "path": "献牲.mp3",
+                    "description": {
+                        "zh-CN": "献牲（shēng）的古旧传统"
+                    }
+                },
+                {
+                    "name": "噎戛然无声",
+                    "path": "噎戛然无声.mp3",
+                    "description": {
+                        "zh-CN": "来访的客人就像狠狠的被噎(yē)到似的戛(jiá)然无声"
+                    }
+                },
+                {
+                    "name": "阿芙罗狄忒祈求",
+                    "path": "阿芙罗狄忒祈求.mp3",
+                    "description": {
+                        "zh-CN": "向阿芙罗狄忒(tè)祈(qí)求"
                     }
                 }
             ]
