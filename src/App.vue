@@ -43,8 +43,11 @@
             <!-- <div class="container-fluid img-center" >
                 <img src="resources/yanhuo.gif">
             </div>  -->
-            <div :class=xxx >
+            <!-- <div :class=xxx >
                 <img src="resources/mikid.png">
+            </div>  -->
+            <div class="fixed-left" >
+                <img src="resources/mi.png">
             </div> 
         </div>
         <footer class="footer">
@@ -67,6 +70,20 @@
 @import "../node_modules/bootstrap/dist/css/bootstrap.css";
 #top-header{
     display:flex;
+}
+.fixed-left{
+    position: fixed;
+    z-index: -1;
+    top:10px;
+    right:0;
+}
+.fixed-left img{
+    // position: absolute;
+    // z-index: -1;
+    // top:0;
+    // right:0px;
+    // width:50%;
+    height:100vh;
 }
 .img-left{
     position: fixed;
