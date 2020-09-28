@@ -1166,6 +1166,13 @@
                     }
                 },
                 {
+                    "name": "打嗝2",
+                    "path": "打嗝2.mp3",
+                    "description": {
+                        "zh-CN": "打嗝2"
+                    }
+                },
+                {
                     "name": "弥希miki是给大家带来笑容的主播",
                     "path": "弥希miki是给大家带来笑容的主播.mp3",
                     "description": {
@@ -1481,6 +1488,20 @@
                     "path": "骨髓 一瞥.mp3",
                     "description": {
                         "zh-CN": "执念早已深埋在骨髓(suǐ)里面 最后一瞥(piē)夺取了她身上几乎所有的温度"
+                    }
+                },
+                {
+                    "name": "泥泞",
+                    "path": "泥泞.mp3",
+                    "description": {
+                        "zh-CN": "如今她终于在泥泞(nìng)里等到了真正的救赎"
+                    }
+                },
+                {
+                    "name": "偃旗息鼓",
+                    "path": "偃旗息鼓.mp3",
+                    "description": {
+                        "zh-CN": "一个多月前偃(yǎn)旗息鼓"
                     }
                 }
             ]
