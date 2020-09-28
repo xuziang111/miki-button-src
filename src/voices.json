@@ -1311,6 +1311,13 @@
                     "description": {
                         "zh-CN": "平平淡淡才是真"
                     }
+                },
+                {
+                    "name": "弥希miki有百合营业PTSD",
+                    "path": "弥希miki有百合营业PTSD.mp3",
+                    "description": {
+                        "zh-CN": "弥希miki有百合营业PTSD"
+                    }
                 }
                 
 
@@ -1432,6 +1439,41 @@
                     "path": "阿芙罗狄忒祈求.mp3",
                     "description": {
                         "zh-CN": "向阿芙罗狄忒(tè)祈(qí)求"
+                    }
+                },
+                {
+                    "name": "人对蘑菇最多不过随便一脚把它碾碎",
+                    "path": "人对蘑菇最多不过随便一脚把它碾碎.mp3",
+                    "description": {
+                        "zh-CN": "人对蘑菇最多不过随便一脚把它碾(niǎn)碎"
+                    }
+                },
+                {
+                    "name": "期冀",
+                    "path": "期冀.mp3",
+                    "description": {
+                        "zh-CN": "对这个世界抱有期冀(jì)和所求的人"
+                    }
+                },
+                {
+                    "name": "一摞",
+                    "path": "一摞.mp3",
+                    "description": {
+                        "zh-CN": "十几本书推挤成一摞(luò)"
+                    }
+                },
+                {
+                    "name": "蹩脚",
+                    "path": "蹩脚.mp3",
+                    "description": {
+                        "zh-CN": "夹杂着大量蹩(bié)脚的洋泾浜(yáng jīng bāng)英语"
+                    }
+                },
+                {
+                    "name": "暹罗",
+                    "path": "暹罗.mp3",
+                    "description": {
+                        "zh-CN": "游士携之，流传暹(xiān)罗，支叶尚存"
                     }
                 }
             ]
