@@ -457,6 +457,13 @@
                     }
                 },
                 {
+                    "name": "嘴硬",
+                    "path": "嘴硬.mp3",
+                    "description": {
+                        "zh-CN": "嘴硬"
+                    }
+                },
+                {
                     "name": "希望大家今晚睡不着",
                     "path": "希望大家今晚睡不着.mp3",
                     "description": {
@@ -1327,6 +1334,41 @@
                     }
                 },
                 {
+                    "name": "pekopeko",
+                    "path": "pekopeko.mp3",
+                    "description": {
+                        "zh-CN": "pekopeko"
+                    }
+                },
+                {
+                    "name": "嗨呀",
+                    "path": "嗨呀.mp3",
+                    "description": {
+                        "zh-CN": "嗨呀"
+                    }
+                },
+                {
+                    "name": "嗨呀2",
+                    "path": "嗨呀2.mp3",
+                    "description": {
+                        "zh-CN": "嗨呀2"
+                    }
+                },
+                {
+                    "name": "嗨呀3",
+                    "path": "嗨呀3.mp3",
+                    "description": {
+                        "zh-CN": "嗨呀3"
+                    }
+                },
+                {
+                    "name": "嗨呀4",
+                    "path": "嗨呀4.mp3",
+                    "description": {
+                        "zh-CN": "嗨呀4"
+                    }
+                },
+                {
                     "name": "硬混",
                     "path": "硬混.mp3",
                     "description": {
@@ -1509,6 +1551,20 @@
                     "path": "偃旗息鼓.mp3",
                     "description": {
                         "zh-CN": "一个多月前偃(yǎn)旗息鼓"
+                    }
+                },
+                {
+                    "name": "戏谑",
+                    "path": "戏谑.mp3",
+                    "description": {
+                        "zh-CN": "戏谑(xuè)"
+                    }
+                },
+                {
+                    "name": "悼念",
+                    "path": "悼念.mp3",
+                    "description": {
+                        "zh-CN": "这个BGM就是在悼(dào)念各位乐子人 悼(dào)念你们曾经是萌萌人的时光"
                     }
                 }
             ]
