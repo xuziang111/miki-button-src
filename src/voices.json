@@ -1040,6 +1040,13 @@
                     }
                 },
                 {
+                    "name": "好男孩子都是会打枪的",
+                    "path": "好男孩子都是会打枪的.mp3",
+                    "description": {
+                        "zh-CN": "好男孩子都是会打枪的"
+                    }
+                },
+                {
                     "name": "1551",
                     "path": "1551.mp3",
                     "description": {
@@ -1369,6 +1376,20 @@
                     }
                 },
                 {
+                    "name": "睡一觉起来总会有什么好事",
+                    "path": "睡一觉起来总会有什么好事.mp3",
+                    "description": {
+                        "zh-CN": "睡一觉起来总会有什么好事"
+                    }
+                },
+                {
+                    "name": "弥希miki太地雷了一点 吸引到了比较地雷的人",
+                    "path": "弥希miki太地雷了一点 吸引到了比较地雷的人.mp3",
+                    "description": {
+                        "zh-CN": "弥希miki太地雷了一点 吸引到了比较地雷的人"
+                    }
+                },
+                {
                     "name": "硬混",
                     "path": "硬混.mp3",
                     "description": {
@@ -1565,6 +1586,20 @@
                     "path": "悼念.mp3",
                     "description": {
                         "zh-CN": "这个BGM就是在悼(dào)念各位乐子人 悼(dào)念你们曾经是萌萌人的时光"
+                    }
+                },
+                {
+                    "name": "反省",
+                    "path": "反省.mp3",
+                    "description": {
+                        "zh-CN": "反省(xǐng)"
+                    }
+                },
+                {
+                    "name": "恪守",
+                    "path": "恪守.mp3",
+                    "description": {
+                        "zh-CN": "一定会恪(kè)守这条信条"
                     }
                 }
             ]
