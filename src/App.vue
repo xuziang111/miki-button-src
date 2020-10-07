@@ -181,10 +181,8 @@ class App extends Vue {
     }
     created(){
         // eslint-disable-next-line 
-        console.log("相信一切都会好起来");
-        console.log("观众不要试图去改变演员想法，特别还是虚拟的(")
-        console.log("即使如此遗憾依旧会有");
-        // console.log("                                                                            ``  .:`");
+        console.log("相信一切都会好起来 前提是自己去尝试改变")
+        // console.log("观众不要试图去改变演员想法，特别还是虚拟的（")
         this.$i18n.locale = localStorage.getItem("lang") || this.$i18n.locale;
     }
     mounted(){
