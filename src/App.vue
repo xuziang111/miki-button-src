@@ -10,17 +10,18 @@
                     <a class="navbar-brand" href="/"><div>{{ $t("info.title") }}</div></a>
                 </div>
                 <div class="brand1">
-                    <a href="https://space.bilibili.com/477317922/" target="_blank"><img src="resources/bilibili.svg" height="18"/></a>
+                    <a href="https://space.bilibili.com/477317922/" target="_blank"><img src="resources/bilibili.svg" title="B站链接" alt="B站链接" height="18"/></a>
                 </div>
                 <div class="brand1">
                     请注意音量大小
                 </div>
                 <div class="brand1">
-                    <a href="https://www.bilibili.com/video/BV11D4y1d7wm/" target="_blank">不来听听歌吗</a>
+                    <a href="https://www.bilibili.com/video/BV11D4y1d7wm/" target="_blank">点我听歌</a>
                 </div>
-                <!-- <div class="brand1">
-                    相信一切都会好起来
-                </div> -->
+                <div class="brand1">
+                    <!-- 不留遗憾 -->
+                    <!-- 相信一切都会好起来 -->
+                </div>
                 <!-- <div class="collapse navbar-collapse" id="bs-navbar-collapse">
                     <ul class="nav navbar-nav">
                         <li><a href="https://space.bilibili.com/477317922/" target="_blank"><img src="resources/bilibili.svg" height="18"/></a></li>
@@ -53,7 +54,11 @@
         <footer class="footer">
                 <div>
                     <div>{{$t("info.audioStaff")}}</div>
-                    <div>友情链接:<a href="https://www.mihiru.com" target="_blank">mihiru.com</a> <a href="https://mahiru-vr.github.io/" target="_blank">孟按钮</a></div>
+                    <div>友情链接:<a href="https://www.mihiru.com" target="_blank">mihiru.com</a>&nbsp;
+                    <a href="https://mahiru-vr.github.io/" target="_blank">孟按钮</a> &nbsp;
+                    <a href="https://bbs.nga.cn/read.php?tid=23498962" target="_blank">NGA弥楼</a> &nbsp;
+                    <a href="https://bbs.nga.cn/read.php?tid=23130748" target="_blank">告一段落的病栋</a> &nbsp;
+                    </div>
                     <div>音频投稿:touhou@lolimy.cn github 或者弥四/魔球群丢群文件 只有时间点也行</div>
                 </div>
                 <div>
@@ -176,7 +181,10 @@ class App extends Vue {
     }
     created(){
         // eslint-disable-next-line 
-        console.log("Produced by MoewSound Idols");
+        console.log("相信一切都会好起来");
+        console.log("观众不要试图去改变演员想法，特别还是虚拟的(")
+        console.log("即使如此遗憾依旧会有");
+        // console.log("                                                                            ``  .:`");
         this.$i18n.locale = localStorage.getItem("lang") || this.$i18n.locale;
     }
     mounted(){
