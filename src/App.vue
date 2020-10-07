@@ -18,9 +18,9 @@
                 <div class="brand1">
                     <a href="https://www.bilibili.com/video/BV11D4y1d7wm/" target="_blank">不来听听歌吗</a>
                 </div>
-                <div class="brand1">
+                <!-- <div class="brand1">
                     相信一切都会好起来
-                </div>
+                </div> -->
                 <!-- <div class="collapse navbar-collapse" id="bs-navbar-collapse">
                     <ul class="nav navbar-nav">
                         <li><a href="https://space.bilibili.com/477317922/" target="_blank"><img src="resources/bilibili.svg" height="18"/></a></li>
@@ -53,8 +53,8 @@
         <footer class="footer">
                 <div>
                     <div>{{$t("info.audioStaff")}}</div>
-                    <div>友情链接:<a href="https://www.mihiru.com">mihiru.com</a> <a href="https://mahiru-vr.github.io/">孟按钮</a></div>
-                    <div>音频投稿:touhou@lolimy.cn github 或者弥四/魔球群丢群文件</div>
+                    <div>友情链接:<a href="https://www.mihiru.com" target="_blank">mihiru.com</a> <a href="https://mahiru-vr.github.io/" target="_blank">孟按钮</a></div>
+                    <div>音频投稿:touhou@lolimy.cn github 或者弥四/魔球群丢群文件 只有时间点也行</div>
                 </div>
                 <div>
                     <div class="text-right"><a href="https://github.com/zyzsdy/aqua-button" target="_blank">原项目</a></div>
@@ -68,6 +68,9 @@
 
 <style lang="scss">
 @import "../node_modules/bootstrap/dist/css/bootstrap.css";
+.cate-header{
+    color:#fff;
+}
 #top-header{
     display:flex;
 }
