@@ -1397,6 +1397,13 @@
                     }
                 },
                 {
+                    "name": "zaima",
+                    "path": "zaima.mp3",
+                    "description": {
+                        "zh-CN": "zaima"
+                    }
+                }, 
+                {
                     "name": "你不要过来啊",
                     "path": "你不要过来啊.mp3",
                     "description": {
@@ -1409,7 +1416,77 @@
                     "description": {
                         "zh-CN": "我快乐因为我是弥希miki"
                     }
-                }  
+                },
+                {
+                    "name": "祝你幸福",
+                    "path": "祝你幸福.mp3",
+                    "description": {
+                        "zh-CN": "祝你幸福"
+                    }
+                }, 
+                {
+                    "name": "I‘m fine",
+                    "path": "I‘m fine.mp3",
+                    "description": {
+                        "zh-CN": "I‘m fine"
+                    }
+                }, 
+                {
+                    "name": "哎呀",
+                    "path": "哎呀.mp3",
+                    "description": {
+                        "zh-CN": "哎呀"
+                    }
+                }, 
+                {
+                    "name": "不够大森没有金森",
+                    "path": "不够大森没有金森.mp3",
+                    "description": {
+                        "zh-CN": "不够大森没有金森"
+                    }
+                }, 
+                {
+                    "name": "出来",
+                    "path": "出来.mp3",
+                    "description": {
+                        "zh-CN": "出来"
+                    }
+                }, 
+                {
+                    "name": "都可以",
+                    "path": "都可以.mp3",
+                    "description": {
+                        "zh-CN": "都可以"
+                    }
+                }, 
+                {
+                    "name": "拉跨了",
+                    "path": "拉跨了.mp3",
+                    "description": {
+                        "zh-CN": "拉跨了"
+                    }
+                }, 
+                {
+                    "name": "溜了",
+                    "path": "溜了.mp3",
+                    "description": {
+                        "zh-CN": "溜了"
+                    }
+                }, 
+                {
+                    "name": "哇噢",
+                    "path": "哇噢.mp3",
+                    "description": {
+                        "zh-CN": "哇噢"
+                    }
+                }, 
+                {
+                    "name": "在吗",
+                    "path": "在吗.mp3",
+                    "description": {
+                        "zh-CN": "在吗"
+                    }
+                }
             ]
         },
         {
