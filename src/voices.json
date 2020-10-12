@@ -464,6 +464,13 @@
                     }
                 },
                 {
+                    "name": "键盘敲得响",
+                    "path": "键盘敲得响.mp3",
+                    "description": {
+                        "zh-CN": "键盘敲得响"
+                    }
+                },
+                {
                     "name": "希望大家今晚睡不着",
                     "path": "希望大家今晚睡不着.mp3",
                     "description": {
@@ -1485,6 +1492,27 @@
                     "path": "在吗.mp3",
                     "description": {
                         "zh-CN": "在吗"
+                    }
+                },
+                {
+                    "name": "拜拜",
+                    "path": "拜拜.mp3",
+                    "description": {
+                        "zh-CN": "拜拜"
+                    }
+                },
+                {
+                    "name": "我怕了",
+                    "path": "我怕了.mp3",
+                    "description": {
+                        "zh-CN": "我怕了"
+                    }
+                },
+                {
+                    "name": "你们自己魔怔去吧我去当萌萌人了",
+                    "path": "你们自己魔怔去吧我去当萌萌人了.mp3",
+                    "description": {
+                        "zh-CN": "你们自己魔怔去吧我去当萌萌人了"
                     }
                 }
             ]
