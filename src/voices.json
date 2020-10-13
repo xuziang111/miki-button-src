@@ -152,6 +152,13 @@
                     "description": {
                         "zh-CN": "dadadajujuju"
                     }
+                },
+                {
+                    "name": "呜啾",
+                    "path": "呜啾.mp3",
+                    "description": {
+                        "zh-CN": "呜啾"
+                    }
                 }
 
             ]
@@ -349,6 +356,13 @@
                     "path": "我道歉了你们还想怎么样.mp3",
                     "description": {
                         "zh-CN": "我道歉了你们还想怎么样"
+                    }
+                },
+                {
+                    "name": "女人配不上我",
+                    "path": "女人配不上我.mp3",
+                    "description": {
+                        "zh-CN": "女人配不上我"
                     }
                 },
                 {
@@ -568,6 +582,13 @@
                     "path": "拜拜，晚安.mp3",
                     "description": {
                         "zh-CN": "拜拜，晚安"
+                    }
+                },
+                {
+                    "name": "晚安",
+                    "path": "晚安.mp3",
+                    "description": {
+                        "zh-CN": "晚安"
                     }
                 },
                 {
@@ -1026,6 +1047,13 @@
                     }
                 },
                 {
+                    "name": "怪声5",
+                    "path": "怪声5.mp3",
+                    "description": {
+                        "zh-CN": "怪声5"
+                    }
+                },
+                {
                     "name": "假哭",
                     "path": "假哭.mp3",
                     "description": {
@@ -1299,6 +1327,13 @@
                     }
                 },
                 {
+                    "name": "早知道女孩子也会被",
+                    "path": "早知道女孩子也会被.mp3",
+                    "description": {
+                        "zh-CN": "早知道女孩子也会被"
+                    }
+                },
+                {
                     "name": "jujujuju",
                     "path": "jujujuju.mp3",
                     "description": {
@@ -1499,6 +1534,55 @@
                     "path": "拜拜.mp3",
                     "description": {
                         "zh-CN": "拜拜"
+                    }
+                },
+                {
+                    "name": "拜拜2",
+                    "path": "拜拜2.mp3",
+                    "description": {
+                        "zh-CN": "拜拜2"
+                    }
+                },
+                {
+                    "name": "波波",
+                    "path": "波波.mp3",
+                    "description": {
+                        "zh-CN": "波波"
+                    }
+                },
+                {
+                    "name": "波波么么啾咪捏",
+                    "path": "波波么么啾咪捏.mp3",
+                    "description": {
+                        "zh-CN": "波波么么啾咪捏"
+                    }
+                },
+                {
+                    "name": "哈欠",
+                    "path": "哈欠.mp3",
+                    "description": {
+                        "zh-CN": "哈欠"
+                    }
+                },
+                {
+                    "name": "嗯嗯嗯嗯嗯嗯",
+                    "path": "嗯嗯嗯嗯嗯嗯.mp3",
+                    "description": {
+                        "zh-CN": "嗯？嗯？？？"
+                    }
+                },
+                {
+                    "name": "斯斯哈",
+                    "path": "斯斯哈.mp3",
+                    "description": {
+                        "zh-CN": "斯 斯哈"
+                    }
+                },
+                {
+                    "name": "呜诶",
+                    "path": "呜诶.mp3",
+                    "description": {
+                        "zh-CN": "呜诶"
                     }
                 },
                 {
