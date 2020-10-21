@@ -485,6 +485,13 @@
                     }
                 },
                 {
+                    "name": "你们是不是太gay了一点",
+                    "path": "你们是不是太gay了一点.mp3",
+                    "description": {
+                        "zh-CN": "你们是不是太gay了一点"
+                    }
+                },
+                {
                     "name": "希望大家今晚睡不着",
                     "path": "希望大家今晚睡不着.mp3",
                     "description": {
@@ -1054,6 +1061,13 @@
                     }
                 },
                 {
+                    "name": "怪声6",
+                    "path": "怪声6.mp3",
+                    "description": {
+                        "zh-CN": "怪声6"
+                    }
+                },
+                {
                     "name": "假哭",
                     "path": "假哭.mp3",
                     "description": {
@@ -1598,6 +1612,48 @@
                     "description": {
                         "zh-CN": "你们自己魔怔去吧我去当萌萌人了"
                     }
+                },
+                {
+                    "name": "嘿咻4",
+                    "path": "嘿咻4.mp3",
+                    "description": {
+                        "zh-CN": "嘿咻4"
+                    }
+                },
+                {
+                    "name": "离我远一点",
+                    "path": "离我远一点.mp3",
+                    "description": {
+                        "zh-CN": "离我远一点"
+                    }
+                },
+                {
+                    "name": "弥希miki16岁",
+                    "path": "弥希miki16岁.mp3",
+                    "description": {
+                        "zh-CN": "弥希miki16岁"
+                    }
+                },
+                {
+                    "name": "伸懒腰2",
+                    "path": "伸懒腰2.mp3",
+                    "description": {
+                        "zh-CN": "伸懒腰2"
+                    }
+                },
+                {
+                    "name": "不要2",
+                    "path": "不要2.mp3",
+                    "description": {
+                        "zh-CN": "不要2"
+                    }
+                },
+                {
+                    "name": "不要3",
+                    "path": "不要3.mp3",
+                    "description": {
+                        "zh-CN": "不要3"
+                    }
                 }
             ]
         },
@@ -1802,6 +1858,27 @@
                     "description": {
                         "zh-CN": "一定会恪(kè)守这条信条"
                     }
+                },
+                {
+                    "name": "单行本",
+                    "path": "单行本.mp3",
+                    "description": {
+                        "zh-CN": "出三本左右的单行(xíng)本"
+                    }
+                },
+                {
+                    "name": "孤僻一点了",
+                    "path": "孤僻一点了.mp3",
+                    "description": {
+                        "zh-CN": "比较开始孤僻(pì)一点了"
+                    }
+                },
+                {
+                    "name": "养点膘",
+                    "path": "养点膘.mp3",
+                    "description": {
+                        "zh-CN": "建议你养点膘(biāo)"
+                    }
                 }
             ]
         },
@@ -1831,7 +1908,14 @@
                     "description": {
                         "zh-CN": "那我最会打？？"
                     }
-                }   
+                },
+                {
+                    "name": "虚拟主播是大家的儿子",
+                    "path": "虚拟主播是大家的儿子.mp3",
+                    "description": {
+                        "zh-CN": "虚拟主播是大家的儿子"
+                    }
+                }    
             ]
         },
         {
