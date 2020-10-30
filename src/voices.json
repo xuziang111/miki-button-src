@@ -1879,6 +1879,20 @@
                     "description": {
                         "zh-CN": "建议你养点膘(biāo)"
                     }
+                },
+                {
+                    "name": "扉",
+                    "path": "扉.mp3",
+                    "description": {
+                        "zh-CN": "音之扉(fēi)"
+                    }
+                },
+                {
+                    "name": "戛然而止",
+                    "path": "戛然而止.mp3",
+                    "description": {
+                        "zh-CN": "戛(jiá)然而止"
+                    }
                 }
             ]
         },
