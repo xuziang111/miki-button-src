@@ -1654,6 +1654,20 @@
                     "description": {
                         "zh-CN": "不要3"
                     }
+                },
+                {
+                    "name": "弥希Miki要以下克上了",
+                    "path": "弥希Miki要以下克上了.mp3",
+                    "description": {
+                        "zh-CN": "弥希Miki要以下克上了"
+                    }
+                },
+                {
+                    "name": "爸爸",
+                    "path": "爸爸.mp3",
+                    "description": {
+                        "zh-CN": "爸爸"
+                    }
                 }
             ]
         },
@@ -1893,6 +1907,20 @@
                     "description": {
                         "zh-CN": "戛(jiá)然而止"
                     }
+                },
+                {
+                    "name": "10/31戏谑2",
+                    "path": "戏谑2.mp3",
+                    "description": {
+                        "zh-CN": "戏谑(xuè)2"
+                    }
+                },
+                {
+                    "name": "10/31美轮美奂2",
+                    "path": "美轮美奂2.mp3",
+                    "description": {
+                        "zh-CN": "美轮美奂(huàn)2"
+                    }
                 }
             ]
         },
@@ -1964,6 +1992,13 @@
                     "path": "记得主播16岁.mp3",
                     "description": {
                         "zh-CN": "记得主播16岁"
+                    }
+                },
+                {
+                    "name": "加油 打工人",
+                    "path": "加油 打工人.mp3",
+                    "description": {
+                        "zh-CN": "加油 打工人"
                     }
                 },
                 {
