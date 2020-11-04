@@ -159,6 +159,27 @@
                     "description": {
                         "zh-CN": "呜啾"
                     }
+                },
+                {
+                    "name": "亲爱的",
+                    "path": "亲爱的.mp3",
+                    "description": {
+                        "zh-CN": "亲爱的"
+                    }
+                },
+                {
+                    "name": "亲爱的 今天不要理家里的哪个黄脸婆 我们一起去泡个温泉吧",
+                    "path": "亲爱的 今天不要理家里的哪个黄脸婆 我们一起去泡个温泉吧.mp3",
+                    "description": {
+                        "zh-CN": "亲爱的 今天不要理家里的哪个黄脸婆 我们一起去泡个温泉吧"
+                    }
+                },
+                {
+                    "name": "先吃饭 先洗澡 还是先--",
+                    "path": "先吃饭 先洗澡 还是先--.mp3",
+                    "description": {
+                        "zh-CN": "先吃饭 先洗澡 还是先--"
+                    }
                 }
 
             ]
@@ -1668,6 +1689,48 @@
                     "description": {
                         "zh-CN": "爸爸"
                     }
+                },
+                {
+                    "name": "中之人是什么呀",
+                    "path": "中之人是什么呀.mp3",
+                    "description": {
+                        "zh-CN": "中之人是什么呀"
+                    }
+                },
+                {
+                    "name": "来我房间里面康康",
+                    "path": "来我房间里面康康.mp3",
+                    "description": {
+                        "zh-CN": "来我房间里面康康"
+                    }
+                },
+                {
+                    "name": "怪声7",
+                    "path": "怪声7.mp3",
+                    "description": {
+                        "zh-CN": "怪声7"
+                    }
+                },
+                {
+                    "name": "bakabaka",
+                    "path": "bakabaka.mp3",
+                    "description": {
+                        "zh-CN": "bakabaka"
+                    }
+                },
+                {
+                    "name": "洗海带",
+                    "path": "洗海带.mp3",
+                    "description": {
+                        "zh-CN": "洗海带"
+                    }
+                },
+                {
+                    "name": "打喷嚏",
+                    "path": "打喷嚏.mp3",
+                    "description": {
+                        "zh-CN": "打喷嚏"
+                    }
                 }
             ]
         },
@@ -1920,6 +1983,20 @@
                     "path": "美轮美奂2.mp3",
                     "description": {
                         "zh-CN": "美轮美奂(huàn)2"
+                    }
+                },
+                {
+                    "name": "繁文缛节2",
+                    "path": "繁文缛节2.mp3",
+                    "description": {
+                        "zh-CN": "繁文缛(rù)节2"
+                    }
+                },
+                {
+                    "name": "趔趄",
+                    "path": "趔趄.mp3",
+                    "description": {
+                        "zh-CN": "一个趔(liè)趄(qie)摔在了地上"
                     }
                 }
             ]
