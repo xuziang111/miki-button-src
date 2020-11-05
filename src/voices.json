@@ -1089,6 +1089,13 @@
                     }
                 },
                 {
+                    "name": "怪声8",
+                    "path": "怪声8.mp3",
+                    "description": {
+                        "zh-CN": "怪声8"
+                    }
+                },
+                {
                     "name": "假哭",
                     "path": "假哭.mp3",
                     "description": {
@@ -1998,6 +2005,20 @@
                     "description": {
                         "zh-CN": "一个趔(liè)趄(qie)摔在了地上"
                     }
+                },
+                {
+                    "name": "藤蔓",
+                    "path": "藤蔓.mp3",
+                    "description": {
+                        "zh-CN": "藤蔓(wàn)"
+                    }
+                },
+                {
+                    "name": "泥泞2",
+                    "path": "泥泞2.mp3",
+                    "description": {
+                        "zh-CN": "泥泞2(nìng)"
+                    }
                 }
             ]
         },
@@ -2034,7 +2055,14 @@
                     "description": {
                         "zh-CN": "虚拟主播是大家的儿子"
                     }
-                }    
+                },
+                {
+                    "name": "爱 只要一瞬就够了",
+                    "path": "爱 只要一瞬就够了.mp3",
+                    "description": {
+                        "zh-CN": "爱 只要一瞬就够了"
+                    }
+                }     
             ]
         },
         {
