@@ -180,6 +180,13 @@
                     "description": {
                         "zh-CN": "先吃饭 先洗澡 还是先--"
                     }
+                },
+                {
+                    "name": "我爱你 我想和你永远的在一起",
+                    "path": "我爱你 我想和你永远的在一起.mp3",
+                    "description": {
+                        "zh-CN": "我爱你 我想和你永远的在一起"
+                    }
                 }
 
             ]
@@ -1738,6 +1745,20 @@
                     "description": {
                         "zh-CN": "打喷嚏"
                     }
+                },
+                {
+                    "name": "吓死我了",
+                    "path": "吓死我了.mp3",
+                    "description": {
+                        "zh-CN": "吓死我了"
+                    }
+                },
+                {
+                    "name": "呃阿",
+                    "path": "呃阿.mp3",
+                    "description": {
+                        "zh-CN": "呃阿"
+                    }
                 }
             ]
         },
@@ -2018,6 +2039,20 @@
                     "path": "泥泞2.mp3",
                     "description": {
                         "zh-CN": "泥泞2(nìng)"
+                    }
+                },
+                {
+                    "name": "骰子",
+                    "path": "骰子.mp3",
+                    "description": {
+                        "zh-CN": "你好像很多年不碰骰(tóu)子"
+                    }
+                },
+                {
+                    "name": "脚踝",
+                    "path": "脚踝.mp3",
+                    "description": {
+                        "zh-CN": "水只有脚踝(huái)高"
                     }
                 }
             ]
