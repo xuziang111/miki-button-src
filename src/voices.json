@@ -7,13 +7,6 @@
             },
             "voiceList": [
                 {
-                    "name": "mahiru主人",
-                    "path": "mahiru主人.mp3",
-                    "description": {
-                        "zh-CN": "mahiru主人"
-                    }
-                },
-                {
                     "name": "咽口水",
                     "path": "咽口水.mp3",
                     "description": {
@@ -186,6 +179,13 @@
                     "path": "我爱你 我想和你永远的在一起.mp3",
                     "description": {
                         "zh-CN": "我爱你 我想和你永远的在一起"
+                    }
+                },
+                {
+                    "name": "本音",
+                    "path": "本音.mp3",
+                    "description": {
+                        "zh-CN": "本音"
                     }
                 }
 
@@ -517,6 +517,13 @@
                     "path": "你们是不是太gay了一点.mp3",
                     "description": {
                         "zh-CN": "你们是不是太gay了一点"
+                    }
+                },
+                {
+                    "name": "积点德",
+                    "path": "积点德.mp3",
+                    "description": {
+                        "zh-CN": "积点德"
                     }
                 },
                 {
@@ -1759,7 +1766,42 @@
                     "description": {
                         "zh-CN": "呃阿"
                     }
-                }
+                },
+                {
+                    "name": "那不就是弥希Miki吗 可怜又清楚",
+                    "path": "那不就是弥希Miki吗 可怜又清楚.mp3",
+                    "description": {
+                        "zh-CN": "那不就是弥希Miki吗 可怜又清楚"
+                    }
+                },
+                {
+                    "name": "我会努力的 拜托大家应援",
+                    "path": "我会努力的 拜托大家应援.mp3",
+                    "description": {
+                        "zh-CN": "我会努力的 拜托大家应援"
+                    }
+                },
+                {
+                    "name": "赛高 赛高哒",
+                    "path": "赛高 赛高哒.mp3",
+                    "description": {
+                        "zh-CN": "赛高 赛高哒(debu"
+                    }
+                },
+                {
+                    "name": "我是弥希Miki 我在用花呗打榜 你呢",
+                    "path": "我是弥希Miki 我在用花呗打榜 你呢.mp3",
+                    "description": {
+                        "zh-CN": "我是弥希Miki 我在用花呗打榜 你呢"
+                    }
+                },
+                {
+                    "name": "啊！！！！",
+                    "path": "啊！！！！.mp3",
+                    "description": {
+                        "zh-CN": "啊！！！！"
+                    }
+                } 
             ]
         },
         {
@@ -2054,6 +2096,13 @@
                     "description": {
                         "zh-CN": "水只有脚踝(huái)高"
                     }
+                },
+                {
+                    "name": "冗长",
+                    "path": "冗长.mp3",
+                    "description": {
+                        "zh-CN": "冗(rǒng)长"
+                    }
                 }
             ]
         },
@@ -2097,7 +2146,7 @@
                     "description": {
                         "zh-CN": "爱 只要一瞬就够了"
                     }
-                }     
+                }    
             ]
         },
         {
