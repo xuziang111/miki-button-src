@@ -1768,6 +1768,13 @@
                     }
                 },
                 {
+                    "name": "女人，我一定要你迷上我",
+                    "path": "女人，我一定要你迷上我.mp3",
+                    "description": {
+                        "zh-CN": "女人，我一定要你迷上我"
+                    }
+                },
+                {
                     "name": "那不就是弥希Miki吗 可怜又清楚",
                     "path": "那不就是弥希Miki吗 可怜又清楚.mp3",
                     "description": {
@@ -2188,6 +2195,13 @@
                     "path": "加油 打工人.mp3",
                     "description": {
                         "zh-CN": "加油 打工人"
+                    }
+                },
+                {
+                    "name": "miki",
+                    "path": "miki.mp3",
+                    "description": {
+                        "zh-CN": "OP Miki"
                     }
                 },
                 {
