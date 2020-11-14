@@ -534,6 +534,20 @@
                     }
                 },
                 {
+                    "name": "对不起XN2",
+                    "path": "对不起XN2.mp3",
+                    "description": {
+                        "zh-CN": "对不起XN2"
+                    }
+                },
+                {
+                    "name": "对不起XN",
+                    "path": "对不起XN.mp3",
+                    "description": {
+                        "zh-CN": "对不起XN"
+                    }
+                },
+                {
                     "name": "希望大家今晚睡不着",
                     "path": "希望大家今晚睡不着.mp3",
                     "description": {
@@ -673,6 +687,13 @@
                     "path": "擦盘子5.mp3",
                     "description": {
                         "zh-CN": "擦盘子5"
+                    }
+                },
+                {
+                    "name": "擦盘子6",
+                    "path": "擦盘子6.mp3",
+                    "description": {
+                        "zh-CN": "擦盘子6"
                     }
                 },
                 {
