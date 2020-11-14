@@ -527,6 +527,13 @@
                     }
                 },
                 {
+                    "name": "我撒了你",
+                    "path": "我撒了你.mp3",
+                    "description": {
+                        "zh-CN": "我撒了你"
+                    }
+                },
+                {
                     "name": "希望大家今晚睡不着",
                     "path": "希望大家今晚睡不着.mp3",
                     "description": {
@@ -1808,7 +1815,42 @@
                     "description": {
                         "zh-CN": "啊！！！！"
                     }
-                } 
+                },
+                {
+                    "name": "真的吗",
+                    "path": "真的吗.mp3",
+                    "description": {
+                        "zh-CN": "真的吗"
+                    }
+                },
+                {
+                    "name": "假哭3",
+                    "path": "假哭3.mp3",
+                    "description": {
+                        "zh-CN": "假哭3"
+                    }
+                },  
+                {
+                    "name": "假哭4",
+                    "path": "假哭4.mp3",
+                    "description": {
+                        "zh-CN": "假哭4"
+                    }
+                },
+                {
+                    "name": "好难过",
+                    "path": "好难过.mp3",
+                    "description": {
+                        "zh-CN": "好难过"
+                    }
+                },
+                {
+                    "name": "怪声9",
+                    "path": "怪声9.mp3",
+                    "description": {
+                        "zh-CN": "怪声9"
+                    }
+                }      
             ]
         },
         {
