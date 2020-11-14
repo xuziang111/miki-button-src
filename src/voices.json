@@ -590,6 +590,13 @@
                     }
                 },
                 {
+                    "name": "我不允许你说弥人不行",
+                    "path": "我不允许你说弥人不行.mp3",
+                    "description": {
+                        "zh-CN": "我不允许你说弥人不行"
+                    }
+                },
+                {
                     "name": "希望大家今晚睡不着",
                     "path": "希望大家今晚睡不着.mp3",
                     "description": {
@@ -1936,6 +1943,13 @@
                     }
                 },
                 {
+                    "name": "弥人是亚萨西",
+                    "path": "弥人是亚萨西.mp3",
+                    "description": {
+                        "zh-CN": "弥人是亚萨西"
+                    }
+                },
+                {
                     "name": "我就两眼一黑",
                     "path": "我就两眼一黑.mp3",
                     "description": {
@@ -2242,6 +2256,20 @@
                     "path": "冗长.mp3",
                     "description": {
                         "zh-CN": "冗(rǒng)长"
+                    }
+                },
+                {
+                    "name": "暴殄天物",
+                    "path": "暴殄天物.mp3",
+                    "description": {
+                        "zh-CN": "暴殄(tiǎn)天物"
+                    }
+                },
+                {
+                    "name": "红彤彤",
+                    "path": "红彤彤.mp3",
+                    "description": {
+                        "zh-CN": "红彤彤(tóng tóng)"
                     }
                 }
             ]
