@@ -1955,6 +1955,13 @@
                     "description": {
                         "zh-CN": "我就两眼一黑"
                     }
+                },
+                {
+                    "name": "谢谢前辈开瓢",
+                    "path": "谢谢前辈开瓢.mp3",
+                    "description": {
+                        "zh-CN": "谢谢前辈开瓢"
+                    }
                 }         
             ]
         },
@@ -2270,6 +2277,13 @@
                     "path": "红彤彤.mp3",
                     "description": {
                         "zh-CN": "红彤彤(tóng tóng)"
+                    }
+                },
+                {
+                    "name": "忤逆",
+                    "path": "忤逆.mp3",
+                    "description": {
+                        "zh-CN": "忤(wǔ)逆"
                     }
                 }
             ]
