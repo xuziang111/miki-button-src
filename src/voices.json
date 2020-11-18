@@ -1962,7 +1962,21 @@
                     "description": {
                         "zh-CN": "谢谢前辈开瓢"
                     }
-                }         
+                },
+                {
+                    "name": "弥希miki最喜欢大家了",
+                    "path": "弥希miki最喜欢大家了.mp3",
+                    "description": {
+                        "zh-CN": "弥希miki最喜欢大家了"
+                    }
+                },
+                {
+                    "name": "啊——",
+                    "path": "啊——.mp3",
+                    "description": {
+                        "zh-CN": "啊——"
+                    }
+                }          
             ]
         },
         {
@@ -2284,6 +2298,13 @@
                     "path": "忤逆.mp3",
                     "description": {
                         "zh-CN": "忤(wǔ)逆"
+                    }
+                },
+                {
+                    "name": "花哨2",
+                    "path": "花哨2.mp3",
+                    "description": {
+                        "zh-CN": "而且不至于太花哨(shao)"
                     }
                 }
             ]
