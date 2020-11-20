@@ -194,6 +194,13 @@
                     "description": {
                         "zh-CN": "本音"
                     }
+                },
+                {
+                    "name": "哎呀~",
+                    "path": "哎呀~.mp3",
+                    "description": {
+                        "zh-CN": "哎呀~"
+                    }
                 }
 
             ]
@@ -608,6 +615,20 @@
                     "path": "先爱自己 再爱别人 特别是管人.mp3",
                     "description": {
                         "zh-CN": "先爱自己 再爱别人 特别是管人"
+                    }
+                },
+                {
+                    "name": "先爱自己 再爱别人 特别是管人",
+                    "path": "你怎么随便说人家阴间呢.mp3",
+                    "description": {
+                        "zh-CN": "你怎么随便说人家阴间呢"
+                    }
+                },
+                {
+                    "name": "弥希Miki是一个小弱智",
+                    "path": "弥希Miki是一个小弱智.mp3",
+                    "description": {
+                        "zh-CN": "弥希Miki是一个小弱智"
                     }
                 }
             ]
@@ -1976,6 +1997,90 @@
                     "description": {
                         "zh-CN": "啊——"
                     }
+                },
+                {
+                    "name": "叫我miki大人就行了",
+                    "path": "叫我miki大人就行了.mp3",
+                    "description": {
+                        "zh-CN": "叫我miki大人就行了"
+                    }
+                },
+                {
+                    "name": "你猜呀",
+                    "path": "你猜呀.mp3",
+                    "description": {
+                        "zh-CN": "你猜呀"
+                    }
+                },
+                {
+                    "name": "才不是说我爱上他了 哼 别说了",
+                    "path": "才不是说我爱上他了 哼 别说了.mp3",
+                    "description": {
+                        "zh-CN": "才不是说我爱上他了 哼 别说了"
+                    }
+                },
+                {
+                    "name": "好呀",
+                    "path": "好呀.mp3",
+                    "description": {
+                        "zh-CN": "好呀"
+                    }
+                },
+                {
+                    "name": "欢迎下次光临",
+                    "path": "欢迎下次光临.mp3",
+                    "description": {
+                        "zh-CN": "欢迎下次光临"
+                    }
+                },
+                {
+                    "name": "叫我miki大人就行了",
+                    "path": "叫我miki大人就行了.mp3",
+                    "description": {
+                        "zh-CN": "叫我miki大人就行了"
+                    }
+                },
+                {
+                    "name": "弥希Miki是一个小弱智",
+                    "path": "弥希Miki是一个小弱智.mp3",
+                    "description": {
+                        "zh-CN": "弥希Miki是一个小弱智"
+                    }
+                },
+                {
+                    "name": "你引起了我的注意",
+                    "path": "你引起了我的注意.mp3",
+                    "description": {
+                        "zh-CN": "你引起了我的注意"
+                    }
+                },
+                {
+                    "name": "我爱维阿 维阿爱我",
+                    "path": "我爱维阿 维阿爱我.mp3",
+                    "description": {
+                        "zh-CN": "我爱维阿 维阿爱我"
+                    }
+                },
+                {
+                    "name": "我要和miki结婚",
+                    "path": "我要和miki结婚.mp3",
+                    "description": {
+                        "zh-CN": "我要和miki结婚"
+                    }
+                },
+                {
+                    "name": "行吧",
+                    "path": "行吧.mp3",
+                    "description": {
+                        "zh-CN": "行吧"
+                    }
+                },
+                {
+                    "name": "有趣的女人",
+                    "path": "有趣的女人.mp3",
+                    "description": {
+                        "zh-CN": "有趣的女人"
+                    }
                 }          
             ]
         },
@@ -2319,6 +2424,26 @@
                     "path": "花哨2.mp3",
                     "description": {
                         "zh-CN": "而且不至于太花哨(shao)"
+                    }
+                },{
+                    "name": "扒手 你们是扒手对不对",
+                    "path": "扒手 你们是扒手对不对.mp3",
+                    "description": {
+                        "zh-CN": "扒手(pá) 你们是扒(pá)手对不对"
+                    }
+                },
+                {
+                    "name": "不省人事",
+                    "path": "不省人事.mp3",
+                    "description": {
+                        "zh-CN": "不省(xǐng)人事"
+                    }
+                },
+                {
+                    "name": "赤色彗星",
+                    "path": "赤色彗星.mp3",
+                    "description": {
+                        "zh-CN": "赤色彗(huì)星"
                     }
                 }
             ]
