@@ -2116,7 +2116,56 @@
                     "description": {
                         "zh-CN": "差不多就得了吧"
                     }
-                }            
+                },
+                {
+                    "name": "吃饭 洗澡 还是我",
+                    "path": "吃饭 洗澡 还是我.mp3",
+                    "description": {
+                        "zh-CN": "吃饭 洗澡 还是我"
+                    }
+                },
+                {
+                    "name": "ニヤハハ",
+                    "path": "ニヤハハ.mp3",
+                    "description": {
+                        "zh-CN": "ニヤハハ"
+                    }
+                }, 
+                {
+                    "name": "完了",
+                    "path": "完了.mp3",
+                    "description": {
+                        "zh-CN": "完了"
+                    }
+                }, 
+                {
+                    "name": "啊—",
+                    "path": "啊—.mp3",
+                    "description": {
+                        "zh-CN": "啊—"
+                    }
+                },
+                {
+                    "name": "我只对你有感觉",
+                    "path": "我只对你有感觉.mp3",
+                    "description": {
+                        "zh-CN": "我只对你有感觉"
+                    }
+                },
+                {
+                    "name": "怪声13",
+                    "path": "怪声13.mp3",
+                    "description": {
+                        "zh-CN": "怪声13"
+                    }
+                },
+                {
+                    "name": "女人们是真的很难懂",
+                    "path": "女人们是真的很难懂.mp3",
+                    "description": {
+                        "zh-CN": "女人们是真的很难懂"
+                    }
+                }             
             ]
         },
         {
@@ -2522,6 +2571,13 @@
                     "path": "爱 只要一瞬就够了.mp3",
                     "description": {
                         "zh-CN": "爱 只要一瞬就够了"
+                    }
+                },
+                {
+                    "name": "我想",
+                    "path": "我想.mp3",
+                    "description": {
+                        "zh-CN": "我想"
                     }
                 }    
             ]
