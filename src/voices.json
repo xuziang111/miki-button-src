@@ -604,13 +604,6 @@
                     }
                 },
                 {
-                    "name": "希望大家今晚睡不着",
-                    "path": "希望大家今晚睡不着.mp3",
-                    "description": {
-                        "zh-CN": "希望大家今晚睡不着"
-                    }
-                },
-                {
                     "name": "你怎么随便说人家阴间呢",
                     "path": "你怎么随便说人家阴间呢.mp3",
                     "description": {
@@ -636,6 +629,20 @@
                     "path": "不至于X5.mp3",
                     "description": {
                         "zh-CN": "不至于X5"
+                    }
+                },
+                {
+                    "name": "你真的是一个小变态呢",
+                    "path": "你真的是一个小变态呢.mp3",
+                    "description": {
+                        "zh-CN": "你真的是一个小变态呢"
+                    }
+                },
+                {
+                    "name": "希望大家今晚睡不着",
+                    "path": "希望大家今晚睡不着.mp3",
+                    "description": {
+                        "zh-CN": "希望大家今晚睡不着"
                     }
                 },
                 {
@@ -2130,6 +2137,13 @@
                     "description": {
                         "zh-CN": "ニヤハハ"
                     }
+                },
+                {
+                    "name": "我已经不再相信女人了",
+                    "path": "我已经不再相信女人了.mp3",
+                    "description": {
+                        "zh-CN": "我已经不再相信女人了"
+                    }
                 }, 
                 {
                     "name": "完了",
@@ -2153,10 +2167,31 @@
                     }
                 },
                 {
+                    "name": "女人如同衣服",
+                    "path": "女人如同衣服.mp3",
+                    "description": {
+                        "zh-CN": "女人如同衣服"
+                    }
+                },
+                {
+                    "name": "是呢",
+                    "path": "是呢.mp3",
+                    "description": {
+                        "zh-CN": "是呢"
+                    }
+                },
+                {
                     "name": "怪声13",
                     "path": "怪声13.mp3",
                     "description": {
                         "zh-CN": "怪声13"
+                    }
+                },
+                {
+                    "name": "我宣布我从此远离女人",
+                    "path": "我宣布我从此远离女人.mp3",
+                    "description": {
+                        "zh-CN": "我宣布我从此远离女人"
                     }
                 },
                 {
@@ -2165,7 +2200,57 @@
                     "description": {
                         "zh-CN": "女人们是真的很难懂"
                     }
-                }             
+                },
+                {
+                    "name": "不行了",
+                    "path": "不行了.mp3",
+                    "description": {
+                        "zh-CN": "不行了"
+                    }
+                },
+                {
+                    "name": "猜女孩子的心确实是很累呢",
+                    "path": "猜女孩子的心确实是很累呢.mp3",
+                    "description": {
+                        "zh-CN": "猜女孩子的心确实是很累呢"
+                    }
+                },
+                {
+                    "name": "随便吧",
+                    "path": "随便吧.mp3",
+                    "description": {
+                        "zh-CN": "随便吧"
+                    }
+                },
+                {
+                    "name": "你好色哦",
+                    "path": "你好色哦.mp3",
+                    "description": {
+                        "zh-CN": "你好色哦"
+                    }
+                },
+                {
+                    "name": "ね ねねね",
+                    "path": "ね ねねね.mp3",
+                    "description": {
+                        "zh-CN": "ね ねねね"
+                    }
+                },
+                {
+                    "name": "没有问题",
+                    "path": "没有问题.mp3",
+                    "description": {
+                        "zh-CN": "没有问题"
+                    }
+                },
+                {
+                    "name": "为什么会变成这个样子呢",
+                    "path": "为什么会变成这个样子呢.mp3",
+                    "description": {
+                        "zh-CN": "为什么会变成这个样子呢"
+                    }
+                }
+                             
             ]
         },
         {
