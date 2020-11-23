@@ -1775,6 +1775,13 @@
                     }
                 },
                 {
+                    "name": "打哈欠",
+                    "path": "打哈欠.mp3",
+                    "description": {
+                        "zh-CN": "打哈欠"
+                    }
+                },
+                {
                     "name": "嗯嗯嗯嗯嗯嗯",
                     "path": "嗯嗯嗯嗯嗯嗯.mp3",
                     "description": {
@@ -2368,8 +2375,70 @@
                     "description": {
                         "zh-CN": "所以请大家不要再说了 我现在感觉很伤心"
                     }
-                }
-                             
+                },
+                {
+                    "name": "我在用花呗买PS5你呢",
+                    "path": "我在用花呗买PS5你呢.mp3",
+                    "description": {
+                        "zh-CN": "我在用花呗买PS5你呢"
+                    }
+                },
+                {
+                    "name": "呀-呀-",
+                    "path": "呀-呀-.mp3",
+                    "description": {
+                        "zh-CN": "呀-呀-"
+                    }
+                },
+                {
+                    "name": "怪声15",
+                    "path": "怪声15.mp3",
+                    "description": {
+                        "zh-CN": "怪声15"
+                    }
+                },
+                {
+                    "name": "冷静一下希Miki冷静一下",
+                    "path": "冷静一下希Miki冷静一下.mp3",
+                    "description": {
+                        "zh-CN": "冷静一下希Miki冷静一下"
+                    }
+                },
+                {
+                    "name": "肚子饿了",
+                    "path": "肚子饿了.mp3",
+                    "description": {
+                        "zh-CN": "肚子饿了"
+                    }
+                },
+                {
+                    "name": "啊呃---",
+                    "path": "啊呃---.mp3",
+                    "description": {
+                        "zh-CN": "啊呃---"
+                    }
+                },
+                {
+                    "name": "遇到你了呀",
+                    "path": "遇到你了呀.mp3",
+                    "description": {
+                        "zh-CN": "遇到你了呀"
+                    }
+                }, 
+                {
+                    "name": "被我发现了",
+                    "path": "被我发现了.mp3",
+                    "description": {
+                        "zh-CN": "被我发现了"
+                    }
+                },
+                {
+                    "name": "哎呀2",
+                    "path": "哎呀2.mp3",
+                    "description": {
+                        "zh-CN": "哎呀2"
+                    }
+                }           
             ]
         },
         {
@@ -2746,6 +2815,27 @@
                     "path": "黝黑.mp3",
                     "description": {
                         "zh-CN": "晒得黝(yǒu)黑"
+                    }
+                },
+                {
+                    "name": "券",
+                    "path": "券.mp3",
+                    "description": {
+                        "zh-CN": "还有一个券(quàn)"
+                    }
+                },
+                {
+                    "name": "咀嚼",
+                    "path": "咀嚼.mp3",
+                    "description": {
+                        "zh-CN": "咀嚼(jué)"
+                    }
+                },
+                {
+                    "name": "囤",
+                    "path": "囤.mp3",
+                    "description": {
+                        "zh-CN": "说不定囤(tún)了些弥希Miki的东西了"
                     }
                 }
             ]
