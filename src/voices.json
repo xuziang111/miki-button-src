@@ -201,6 +201,13 @@
                     "description": {
                         "zh-CN": "哎呀~"
                     }
+                },
+                {
+                    "name": "晚安 mua",
+                    "path": "晚安 mua.mp3",
+                    "description": {
+                        "zh-CN": "晚安 mua"
+                    }
                 }
 
             ]
@@ -636,6 +643,34 @@
                     "path": "你真的是一个小变态呢.mp3",
                     "description": {
                         "zh-CN": "你真的是一个小变态呢"
+                    }
+                },
+                {
+                    "name": "这么yhm的吗",
+                    "path": "这么yhm的吗.mp3",
+                    "description": {
+                        "zh-CN": "这么yhm的吗"
+                    }
+                },
+                {
+                    "name": "大的要来了",
+                    "path": "大的要来了.mp3",
+                    "description": {
+                        "zh-CN": "大的要来了"
+                    }
+                },
+                {
+                    "name": "醒一醒",
+                    "path": "醒一醒.mp3",
+                    "description": {
+                        "zh-CN": "醒一醒"
+                    }
+                },
+                {
+                    "name": "凑旅人",
+                    "path": "凑旅人.mp3",
+                    "description": {
+                        "zh-CN": "凑旅人"
                     }
                 },
                 {
@@ -1873,6 +1908,13 @@
                     }
                 },
                 {
+                    "name": "咳嗽",
+                    "path": "咳嗽.mp3",
+                    "description": {
+                        "zh-CN": "咳嗽"
+                    }
+                },
+                {
                     "name": "吓死我了",
                     "path": "吓死我了.mp3",
                     "description": {
@@ -2052,13 +2094,6 @@
                     "path": "欢迎下次光临.mp3",
                     "description": {
                         "zh-CN": "欢迎下次光临"
-                    }
-                },
-                {
-                    "name": "叫我miki大人就行了",
-                    "path": "叫我miki大人就行了.mp3",
-                    "description": {
-                        "zh-CN": "叫我miki大人就行了"
                     }
                 },
                 {
@@ -2248,6 +2283,90 @@
                     "path": "为什么会变成这个样子呢.mp3",
                     "description": {
                         "zh-CN": "为什么会变成这个样子呢"
+                    }
+                },
+                {
+                    "name": "哼歌",
+                    "path": "哼歌.mp3",
+                    "description": {
+                        "zh-CN": "哼歌"
+                    }
+                },
+                {
+                    "name": "你们也想顺手牵弥",
+                    "path": "你们也想顺手牵弥.mp3",
+                    "description": {
+                        "zh-CN": "你们也想顺手牵弥"
+                    }
+                },
+                {
+                    "name": "欸？？",
+                    "path": "欸？？.mp3",
+                    "description": {
+                        "zh-CN": "欸？？"
+                    }
+                },
+                {
+                    "name": "开瓢吗",
+                    "path": "开瓢吗.mp3",
+                    "description": {
+                        "zh-CN": "开瓢吗"
+                    }
+                },
+                {
+                    "name": "怪声14",
+                    "path": "怪声14.mp3",
+                    "description": {
+                        "zh-CN": "怪声14"
+                    }
+                },
+                {
+                    "name": "弥希miki不允许你们去地下帝国打工",
+                    "path": "弥希miki不允许你们去地下帝国打工.mp3",
+                    "description": {
+                        "zh-CN": "弥希miki不允许你们去地下帝国打工"
+                    }
+                },
+                {
+                    "name": "今天就说到这吧 再见",
+                    "path": "今天就说到这吧 再见.mp3",
+                    "description": {
+                        "zh-CN": "今天就说到这吧 再见"
+                    }
+                },
+                {
+                    "name": "boy next door",
+                    "path": "boy next door.mp3",
+                    "description": {
+                        "zh-CN": "boy next door"
+                    }
+                },
+                {
+                    "name": "爱你们的miki",
+                    "path": "爱你们的miki.mp3",
+                    "description": {
+                        "zh-CN": "爱你们的miki"
+                    }
+                },
+                {
+                    "name": "帕秋莉 go",
+                    "path": "帕秋莉 go.mp3",
+                    "description": {
+                        "zh-CN": "帕秋莉 go"
+                    }
+                },
+                {
+                    "name": "你醒了 你已经变成女孩子了",
+                    "path": "你醒了 你已经变成女孩子了.mp3",
+                    "description": {
+                        "zh-CN": "你醒了 你已经变成女孩子了"
+                    }
+                },
+                {
+                    "name": "所以请大家不要再说了 我现在感觉很伤心",
+                    "path": "所以请大家不要再说了 我现在感觉很伤心.mp3",
+                    "description": {
+                        "zh-CN": "所以请大家不要再说了 我现在感觉很伤心"
                     }
                 }
                              
@@ -2613,6 +2732,20 @@
                     "path": "赤色彗星.mp3",
                     "description": {
                         "zh-CN": "赤色彗(huì)星"
+                    }
+                },
+                {
+                    "name": "补给",
+                    "path": "补给.mp3",
+                    "description": {
+                        "zh-CN": "补给(jǐ)"
+                    }
+                },
+                {
+                    "name": "黝黑",
+                    "path": "黝黑.mp3",
+                    "description": {
+                        "zh-CN": "晒得黝(yǒu)黑"
                     }
                 }
             ]
