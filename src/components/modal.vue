@@ -20,9 +20,9 @@
 </template>
 
 <style lang="scss">
-.modal{
-    color: black;
-}
+// .modal{
+//     color: black;
+// }
 </style>
 
 

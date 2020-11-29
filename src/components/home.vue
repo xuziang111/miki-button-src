@@ -3,13 +3,13 @@
         <div>
             <div class="cate-header">{{ $t("action.control")}}</div>
             <div class="cate-body">
-                <button class="btn btn-info" @click="random">{{ $t("action.randomplay") }}</button>
-                <button class="btn btn-info" @click="stopPlay">{{$t("action.stopvoice") }}</button>
-                <button class="btn btn-info" :class="{ 'disabled': autoCheck }" @click="overlap" :title="$t('info.overlapTips')">
+                <button class="btn btn-new" @click="random">{{ $t("action.randomplay") }}</button>
+                <button class="btn btn-new" @click="stopPlay">{{$t("action.stopvoice") }}</button>
+                <button class="btn btn-new" :class="{ 'disabled': autoCheck }" @click="overlap" :title="$t('info.overlapTips')">
                     <input class="checkbox" type="checkbox" v-model="overlapCheck">
                     <span>{{ $t("action.overlap") }}</span>
                 </button>
-                <button class="btn btn-info" :class="{ 'disabled': overlapCheck }" @click="autoPlay">
+                <button class="btn btn-new" :class="{ 'disabled': overlapCheck }" @click="autoPlay">
                     <input class="checkbox" type="checkbox" v-model="autoCheck">
                     <span>{{ $t("action.autoplay") }}</span>
                 </button>
@@ -48,7 +48,7 @@
 }
 .btn-new {
     color: #fff;
-    background-color: rgb(38, 176, 211);
+    background-color: rgba(150, 150, 150,0.6);
     border-color: rgb(211, 38, 211);
     max-width: 100%;
     word-wrap: break-word !important;
