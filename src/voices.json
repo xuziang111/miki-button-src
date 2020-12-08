@@ -2440,6 +2440,13 @@
                     }
                 },
                 {
+                    "name": "怪声16",
+                    "path": "怪声16.mp3",
+                    "description": {
+                        "zh-CN": "怪声16"
+                    }
+                },
+                {
                     "name": "我也只爱你哦",
                     "path": "我也只爱你哦.mp3",
                     "description": {
