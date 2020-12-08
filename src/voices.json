@@ -2438,6 +2438,104 @@
                     "description": {
                         "zh-CN": "哎呀2"
                     }
+                },
+                {
+                    "name": "我也只爱你哦",
+                    "path": "我也只爱你哦.mp3",
+                    "description": {
+                        "zh-CN": "我也只爱你哦"
+                    }
+                },
+                {
+                    "name": "mua~",
+                    "path": "mua~.mp3",
+                    "description": {
+                        "zh-CN": "mua~"
+                    }
+                },
+                {
+                    "name": "施主~",
+                    "path": "施主~.mp3",
+                    "description": {
+                        "zh-CN": "施主~"
+                    }
+                },
+                {
+                    "name": "嗯？！",
+                    "path": "嗯？！.mp3",
+                    "description": {
+                        "zh-CN": "嗯？！"
+                    }
+                },
+                {
+                    "name": "弥希Miki是一个青春的傻白甜",
+                    "path": "弥希Miki是一个青春的傻白甜.mp3",
+                    "description": {
+                        "zh-CN": "弥希Miki是一个青春的傻白甜"
+                    }
+                },
+                {
+                    "name": "登dua郎",
+                    "path": "登dua郎.mp3",
+                    "description": {
+                        "zh-CN": "登dua郎"
+                    }
+                },
+                {
+                    "name": "vr昌平",
+                    "path": "vr昌平.mp3",
+                    "description": {
+                        "zh-CN": "vr昌平"
+                    }
+                },
+                {
+                    "name": "欸欸欸欸",
+                    "path": "欸欸欸欸.mp3",
+                    "description": {
+                        "zh-CN": "欸欸欸欸"
+                    }
+                },
+                {
+                    "name": "咩",
+                    "path": "咩.mp3",
+                    "description": {
+                        "zh-CN": "咩"
+                    }
+                },
+                {
+                    "name": "弥希Miki筋疲力尽",
+                    "path": "弥希Miki筋疲力尽.mp3",
+                    "description": {
+                        "zh-CN": "弥希Miki筋疲力尽"
+                    }
+                },
+                {
+                    "name": "嗷呜",
+                    "path": "嗷呜.mp3",
+                    "description": {
+                        "zh-CN": "嗷呜"
+                    }
+                },
+                {
+                    "name": "我努力了",
+                    "path": "我努力了.mp3",
+                    "description": {
+                        "zh-CN": "我努力了"
+                    }
+                },
+                {
+                    "name": "ju-",
+                    "path": "ju-.mp3",
+                    "description": {
+                        "zh-CN": "ju-"
+                    }
+                },
+                {
+                    "name": "？",
+                    "path": "？.mp3",
+                    "description": {
+                        "zh-CN": "？"
+                    }
                 }           
             ]
         },
