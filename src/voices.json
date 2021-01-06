@@ -203,6 +203,13 @@
                     }
                 },
                 {
+                    "name": "我 想 要 你",
+                    "path": "我 想 要 你.mp3",
+                    "description": {
+                        "zh-CN": "我 想 要 你"
+                    }
+                },
+                {
                     "name": "晚安 mua",
                     "path": "晚安 mua.mp3",
                     "description": {
@@ -671,6 +678,20 @@
                     "path": "凑旅人.mp3",
                     "description": {
                         "zh-CN": "凑旅人"
+                    }
+                },
+                {
+                    "name": "粪作",
+                    "path": "粪作.mp3",
+                    "description": {
+                        "zh-CN": "粪作"
+                    }
+                },
+                {
+                    "name": "贱 贱人",
+                    "path": "贱 贱人.mp3",
+                    "description": {
+                        "zh-CN": "贱 贱人"
                     }
                 },
                 {
@@ -2543,7 +2564,28 @@
                     "description": {
                         "zh-CN": "？"
                     }
-                }           
+                },
+                {
+                    "name": "啊-",
+                    "path": "啊-.mp3",
+                    "description": {
+                        "zh-CN": "啊-"
+                    }
+                },
+                {
+                    "name": "jinguling",
+                    "path": "jinguling.mp3",
+                    "description": {
+                        "zh-CN": "jinguling"
+                    }
+                },
+                {
+                    "name": "姿势不对",
+                    "path": "姿势不对.mp3",
+                    "description": {
+                        "zh-CN": "姿势不对？"
+                    }
+                }            
             ]
         },
         {
@@ -2942,6 +2984,20 @@
                     "description": {
                         "zh-CN": "说不定囤(tún)了些弥希Miki的东西了"
                     }
+                },
+                {
+                    "name": "自怨自艾",
+                    "path": "自怨自艾.mp3",
+                    "description": {
+                        "zh-CN": "自怨自艾(yì)"
+                    }
+                },
+                {
+                    "name": "水獭",
+                    "path": "水獭.mp3",
+                    "description": {
+                        "zh-CN": "水獭(tǎ)"
+                    }
                 }
             ]
         },
@@ -3048,6 +3104,13 @@
                     "path": "星降る.mp3",
                     "description": {
                         "zh-CN": "ED 星降る"
+                    }
+                },
+                {
+                    "name": "30的大哥repo",
+                    "path": "30的大哥repo.mp3",
+                    "description": {
+                        "zh-CN": "30的大哥repo"
                     }
                 }  
             ]
