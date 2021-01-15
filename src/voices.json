@@ -723,6 +723,13 @@
                     }
                 },
                 {
+                    "name": "弥人没有人权的",
+                    "path": "弥人没有人权的.mp3",
+                    "description": {
+                        "zh-CN": "弥人没有人权的"
+                    }
+                },
+                {
                     "name": "希望大家今晚睡不着",
                     "path": "希望大家今晚睡不着.mp3",
                     "description": {
@@ -2704,6 +2711,62 @@
                     "description": {
                         "zh-CN": "早上好~"
                     }
+                },
+                {
+                    "name": "ao",
+                    "path": "ao.mp3",
+                    "description": {
+                        "zh-CN": "ao"
+                    }
+                },
+                {
+                    "name": "rua2",
+                    "path": "rua2.mp3",
+                    "description": {
+                        "zh-CN": "rua2"
+                    }
+                },
+                {
+                    "name": "rua3",
+                    "path": "rua3.mp3",
+                    "description": {
+                        "zh-CN": "rua3"
+                    }
+                },
+                {
+                    "name": "复读机12",
+                    "path": "复读机12.mp3",
+                    "description": {
+                        "zh-CN": "复读机12"
+                    }
+                },
+                {
+                    "name": "弥希Miki真的非常困惑",
+                    "path": "弥希Miki真的非常困惑.mp3",
+                    "description": {
+                        "zh-CN": "弥希Miki真的非常困惑"
+                    }
+                },
+                {
+                    "name": "狗 叫",
+                    "path": "狗 叫.mp3",
+                    "description": {
+                        "zh-CN": "狗 叫"
+                    }
+                },
+                {
+                    "name": "妈-",
+                    "path": "妈-.mp3",
+                    "description": {
+                        "zh-CN": "妈-"
+                    }
+                },
+                {
+                    "name": "窒息",
+                    "path": "窒息.mp3",
+                    "description": {
+                        "zh-CN": "窒息"
+                    }
                 }
             ]
         },
@@ -3151,6 +3214,13 @@
                     "path": "悼念2.mp3",
                     "description": {
                         "zh-CN": "悼念2(dào)"
+                    }
+                },
+                {
+                    "name": "轮廓",
+                    "path": "轮廓.mp3",
+                    "description": {
+                        "zh-CN": "轮廓(kuò)"
                     }
                 }
             ]
