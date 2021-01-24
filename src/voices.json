@@ -730,6 +730,20 @@
                     }
                 },
                 {
+                    "name": "基德",
+                    "path": "基德.mp3",
+                    "description": {
+                        "zh-CN": "基德"
+                    }
+                },
+                {
+                    "name": "别钓了 鱼塘里没鱼了",
+                    "path": "别钓了 鱼塘里没鱼了.mp3",
+                    "description": {
+                        "zh-CN": "别钓了 鱼塘里没鱼了"
+                    }
+                },
+                {
                     "name": "希望大家今晚睡不着",
                     "path": "希望大家今晚睡不着.mp3",
                     "description": {
@@ -2766,6 +2780,83 @@
                     "path": "窒息.mp3",
                     "description": {
                         "zh-CN": "窒息"
+                    }
+                },
+                {
+                    "name": "怪声17",
+                    "path": "怪声17.mp3",
+                    "description": {
+                        "zh-CN": "怪声17"
+                    }
+                },
+                {
+                    "name": "弥希miki舍不得大家",
+                    "path": "弥希miki舍不得大家.mp3",
+                    "description": {
+                        "zh-CN": "弥希miki舍不得大家"
+                    }
+                },
+                {
+                    "name": "你在看什么",
+                    "path": "你在看什么.mp3",
+                    "description": {
+                        "zh-CN": "你在看什么"
+                    }
+                },
+                {
+                    "name": "打哈欠2",
+                    "path": "打哈欠2.mp3",
+                    "description": {
+                        "zh-CN": "打哈欠2"
+                    }
+                },
+                {
+                    "name": "偷家了",
+                    "path": "偷家了.mp3",
+                    "description": {
+                        "zh-CN": "偷家了"
+                    }
+                },
+                {
+                    "name": "好姐姐原谅我嘛",
+                    "path": "好姐姐原谅我嘛.mp3",
+                    "description": {
+                        "zh-CN": "好姐姐原谅我嘛"
+                    }
+                },
+                {
+                    "name": "好奇怪哦 我说错什么了吗",
+                    "path": "好奇怪哦 我说错什么了吗.mp3",
+                    "description": {
+                        "zh-CN": "好奇怪哦 我说错什么了吗"
+                    }
+                },
+                {
+                    "name": "痛痛痛",
+                    "path": "痛痛痛.mp3",
+                    "description": {
+                        "zh-CN": "痛痛痛"
+                    }
+                },
+                {
+                    "name": "痛痛痛",
+                    "path": "痛痛痛.mp3",
+                    "description": {
+                        "zh-CN": "痛痛痛"
+                    }
+                },
+                {
+                    "name": "打喷嚏2",
+                    "path": "打喷嚏2.mp3",
+                    "description": {
+                        "zh-CN": "打喷嚏2"
+                    }
+                },
+                {
+                    "name": "肚皮音",
+                    "path": "肚皮音.mp3",
+                    "description": {
+                        "zh-CN": "肚皮音"
                     }
                 }
             ]
