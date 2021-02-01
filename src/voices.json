@@ -2839,13 +2839,6 @@
                     }
                 },
                 {
-                    "name": "痛痛痛",
-                    "path": "痛痛痛.mp3",
-                    "description": {
-                        "zh-CN": "痛痛痛"
-                    }
-                },
-                {
                     "name": "打喷嚏2",
                     "path": "打喷嚏2.mp3",
                     "description": {
@@ -2857,6 +2850,34 @@
                     "path": "肚皮音.mp3",
                     "description": {
                         "zh-CN": "肚皮音"
+                    }
+                },
+                {
+                    "name": "yamero",
+                    "path": "yamero.mp3",
+                    "description": {
+                        "zh-CN": "yamero"
+                    }
+                },
+                {
+                    "name": "kimo",
+                    "path": "kimo.mp3",
+                    "description": {
+                        "zh-CN": "kimo"
+                    }
+                },
+                {
+                    "name": "欸 什么 まさか うそ そんな",
+                    "path": "欸 什么 まさか うそ そんな.mp3",
+                    "description": {
+                        "zh-CN": "欸 什么 まさか うそ そんな"
+                    }
+                },
+                {
+                    "name": "嗯-啊-",
+                    "path": "嗯-啊-.mp3",
+                    "description": {
+                        "zh-CN": "嗯-啊-"
                     }
                 }
             ]
@@ -3313,6 +3334,13 @@
                     "description": {
                         "zh-CN": "轮廓(kuò)"
                     }
+                },
+                {
+                    "name": "耷拉",
+                    "path": "耷拉.mp3",
+                    "description": {
+                        "zh-CN": "耷(dā)拉"
+                    }
                 }
             ]
         },
@@ -3427,7 +3455,21 @@
                     "description": {
                         "zh-CN": "30的大哥repo"
                     }
-                }  
+                },
+                {
+                    "name": "废案",
+                    "path": "废案.mp3",
+                    "description": {
+                        "zh-CN": "废案"
+                    }
+                },
+                {
+                    "name": "废案2",
+                    "path": "废案2.mp3",
+                    "description": {
+                        "zh-CN": "废案2"
+                    }
+                }    
             ]
         }
     ]
