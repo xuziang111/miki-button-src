@@ -2879,6 +2879,13 @@
                     "description": {
                         "zh-CN": "嗯-啊-"
                     }
+                },
+                {
+                    "name": "休想逃之夭夭",
+                    "path": "休想逃之夭夭.mp3",
+                    "description": {
+                        "zh-CN": "休想逃之夭夭"
+                    }
                 }
             ]
         },
@@ -3340,6 +3347,13 @@
                     "path": "耷拉.mp3",
                     "description": {
                         "zh-CN": "耷(dā)拉"
+                    }
+                },
+                {
+                    "name": "解剖",
+                    "path": "解剖.mp3",
+                    "description": {
+                        "zh-CN": "解剖(pōu)"
                     }
                 }
             ]
