@@ -3481,6 +3481,48 @@
                     "description": {
                         "zh-CN": "魑魅魍魉"
                     }
+                },
+                {
+                    "name": "刽子手",
+                    "path": "刽子手.mp3",
+                    "description": {
+                        "zh-CN": "刽(guì)子手"
+                    }
+                },
+                {
+                    "name": "面面相觑",
+                    "path": "面面相觑.mp3",
+                    "description": {
+                        "zh-CN": "面面相觑(qù)"
+                    }
+                },
+                {
+                    "name": "牵掣",
+                    "path": "牵掣.mp3",
+                    "description": {
+                        "zh-CN": "牵掣(chè)"
+                    }
+                },
+                {
+                    "name": "用馒头蘸血舐",
+                    "path": "用馒头蘸血舐.mp3",
+                    "description": {
+                        "zh-CN": "用馒头(zhàn)血舐(shì)"
+                    }
+                },
+                {
+                    "name": "气愤愤",
+                    "path": "气愤愤.mp3",
+                    "description": {
+                        "zh-CN": "气愤愤(fèn)"
+                    }
+                },
+                {
+                    "name": "椽子",
+                    "path": "椽子.mp3",
+                    "description": {
+                        "zh-CN": "椽(chuán)子"
+                    }
                 }
             ]
         },
