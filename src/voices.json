@@ -744,6 +744,20 @@
                     }
                 },
                 {
+                    "name": "没救了 回家等死吧",
+                    "path": "没救了 回家等死吧.mp3",
+                    "description": {
+                        "zh-CN": "没救了 回家等死吧"
+                    }
+                },
+                {
+                    "name": "你们都不配",
+                    "path": "你们都不配.mp3",
+                    "description": {
+                        "zh-CN": "你们都不配"
+                    }
+                },
+                {
                     "name": "希望大家今晚睡不着",
                     "path": "希望大家今晚睡不着.mp3",
                     "description": {
@@ -2886,7 +2900,42 @@
                     "description": {
                         "zh-CN": "休想逃之夭夭"
                     }
-                }
+                },
+                {
+                    "name": "对",
+                    "path": "对.mp3",
+                    "description": {
+                        "zh-CN": "对"
+                    }
+                },
+                {
+                    "name": "伸懒腰3",
+                    "path": "伸懒腰3.mp3",
+                    "description": {
+                        "zh-CN": "伸懒腰3"
+                    }
+                },
+                {
+                    "name": "只要你自己不尴尬 尴尬的就是别人",
+                    "path": "只要你自己不尴尬 尴尬的就是别人.mp3",
+                    "description": {
+                        "zh-CN": "只要你自己不尴尬 尴尬的就是别人"
+                    }
+                },
+                {
+                    "name": "嗯嗯嗯嗯嗯嗯嗯",
+                    "path": "嗯嗯嗯嗯嗯嗯嗯.mp3",
+                    "description": {
+                        "zh-CN": "嗯嗯嗯嗯嗯嗯嗯"
+                    }
+                },
+                {
+                    "name": "哇-哇--",
+                    "path": "哇-哇--.mp3",
+                    "description": {
+                        "zh-CN": "哇-哇--"
+                    }
+                } 
             ]
         },
         {
@@ -3354,6 +3403,27 @@
                     "path": "解剖.mp3",
                     "description": {
                         "zh-CN": "解剖(pōu)"
+                    }
+                },
+                {
+                    "name": "鞠躬尽瘁",
+                    "path": "鞠躬尽瘁.mp3",
+                    "description": {
+                        "zh-CN": "鞠躬尽瘁(cuì)"
+                    }
+                },
+                {
+                    "name": "庇护",
+                    "path": "庇护.mp3",
+                    "description": {
+                        "zh-CN": "庇(bì)护"
+                    }
+                },
+                {
+                    "name": "魑魅魍魉",
+                    "path": "魑魅魍魉.mp3",
+                    "description": {
+                        "zh-CN": "魑魅魍魉"
                     }
                 }
             ]
