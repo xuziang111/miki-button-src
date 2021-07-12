@@ -2991,6 +2991,20 @@
                     "description": {
                         "zh-CN": "哈哈哈哈哈哈哈哈"
                     }
+                },
+                {
+                    "name": "喵",
+                    "path": "喵.mp3",
+                    "description": {
+                        "zh-CN": "喵"
+                    }
+                },
+                {
+                    "name": "发病",
+                    "path": "发病.mp3",
+                    "description": {
+                        "zh-CN": "发病"
+                    }
                 }  
             ]
         },
