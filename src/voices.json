@@ -3005,7 +3005,105 @@
                     "description": {
                         "zh-CN": "发病"
                     }
-                }  
+                },
+                {
+                    "name": "阿弥弥天使",
+                    "path": "阿弥弥天使.mp3",
+                    "description": {
+                        "zh-CN": "阿弥弥天使"
+                    }
+                },
+                {
+                    "name": "喘息",
+                    "path": "喘息.mp3",
+                    "description": {
+                        "zh-CN": "喘息"
+                    }
+                },
+                {
+                    "name": "点兵点将",
+                    "path": "点兵点将.mp3",
+                    "description": {
+                        "zh-CN": "点兵点将"
+                    }
+                },
+                {
+                    "name": "给水友们康康",
+                    "path": "给水友们康康.mp3",
+                    "description": {
+                        "zh-CN": "给水友们康康"
+                    }
+                },
+                {
+                    "name": "好大哦这个",
+                    "path": "好大哦这个.mp3",
+                    "description": {
+                        "zh-CN": "好大哦这个"
+                    }
+                },
+                {
+                    "name": "啾",
+                    "path": "啾.mp3",
+                    "description": {
+                        "zh-CN": "啾"
+                    }
+                },
+                {
+                    "name": "弥希Miki的mi确实很可爱",
+                    "path": "弥希Miki的mi确实很可爱.mp3",
+                    "description": {
+                        "zh-CN": "弥希Miki的mi确实很可爱"
+                    }
+                },
+                {
+                    "name": "弥希吃棒棒糖",
+                    "path": "弥希吃棒棒糖.mp3",
+                    "description": {
+                        "zh-CN": "弥希吃棒棒糖"
+                    }
+                },
+                {
+                    "name": "你们在搞什么下流的事情",
+                    "path": "你们在搞什么下流的事情.mp3",
+                    "description": {
+                        "zh-CN": "你们在搞什么下流的事情"
+                    }
+                },
+                {
+                    "name": "是弥人吗？",
+                    "path": "是弥人吗？.mp3",
+                    "description": {
+                        "zh-CN": "是弥人吗？"
+                    }
+                },
+                {
+                    "name": "突然一下子见岳父？",
+                    "path": "突然一下子见岳父？.mp3",
+                    "description": {
+                        "zh-CN": "突然一下子见岳父？"
+                    }
+                },
+                {
+                    "name": "我不敢想了",
+                    "path": "我不敢想了.mp3",
+                    "description": {
+                        "zh-CN": "我不敢想了"
+                    }
+                },
+                {
+                    "name": "吓死人啦",
+                    "path": "吓死人啦.mp3",
+                    "description": {
+                        "zh-CN": "吓死人啦"
+                    }
+                },
+                {
+                    "name": "这真的是乌鱼子",
+                    "path": "这真的是乌鱼子.mp3",
+                    "description": {
+                        "zh-CN": "这真的是乌鱼子"
+                    }
+                } 
             ]
         },
         {
@@ -3536,6 +3634,13 @@
                     "path": "椽子.mp3",
                     "description": {
                         "zh-CN": "椽(chuán)子"
+                    }
+                },
+                {
+                    "name": "租赁店",
+                    "path": "租赁店.mp3",
+                    "description": {
+                        "zh-CN": "租赁(lìn)店"
                     }
                 }
             ]
