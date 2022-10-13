@@ -58,7 +58,7 @@
                 <div>
                     <div>{{$t("info.audioStaff")}}</div>
                     <div>友情链接:<a href="https://www.mihiru.com" target="_blank">mihiru.com</a>&nbsp;
-                    <a href="https://mahiru-vr.github.io/" target="_blank">孟按钮</a> &nbsp;
+                    <a href="https://voice.mahiru.live/" target="_blank">孟按钮</a> &nbsp;
                     <a href="https://bbs.nga.cn/read.php?tid=23498962" target="_blank">NGA弥楼</a> &nbsp;
                     <a href="https://bbs.nga.cn/read.php?tid=23130748" target="_blank">告一段落的病栋</a> &nbsp;
                     </div>
