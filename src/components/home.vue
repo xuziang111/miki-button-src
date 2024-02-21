@@ -77,13 +77,13 @@ class HomePage extends Vue {
 
     play(item){
         if (this.overlapCheck) {
-            let audio = new Audio("voices/" + item.path);
+            let audio = new Audio("./voices/" + item.path);
             this.voice = item;
             audio.play()
         } else {
             this.stopPlay();
             let player = document.getElementById('player');
-            player.src = "voices/" + item.path;
+            player.src = "./voices/" + item.path;
             this.voice = item;
             player.play();
         }
